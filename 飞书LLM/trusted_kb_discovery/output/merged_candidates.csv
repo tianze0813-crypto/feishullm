@@ -1,0 +1,201 @@
+﻿merged_score,title,batch_count,total_hit_count,category_count,query_count,avg_original_score,max_original_score,source_kinds,categories,matched_queries,url,downgrade_flags,reasons
+94.5,HR常见问题及解决方案总览,7,29,12,28,19.51,26.3,docs,IT报修 | 入职 | 加班与调休 | 发票 | 差旅 | 报销 | 社保公积金 | 考勤 | 薪资个税 | 请假与假期 | 邮箱与应用 | 餐补福利,IT报修 | IT自助服务 | 五险一金 | 产假 | 休假 | 入职 | 出差 | 加班 | 发票 | 发薪 | 工资 | 年假 | 打卡 | 报销 | 报销标准 | 病假 | 社保 | 福利 | 考勤 | 薪资 | 补卡 | 补贴 | 请假 | 调休 | 费用报销 | 飞书应用 | 餐卡 | 餐费,https://www.feishu.cn/docx/B0zBdIpZuo2M3nxDYbtcwAcLnze,,跨批出现 7 | 覆盖类别 12 | 累计命中 29 | 标题强信号 1 | 可读取正文 | 正文强信号 3 | 查询覆盖 28
+76.3,信息化指引手册,6,18,8,18,21.38,29.2,docs,IT报修 | 入职 | 密码与账号 | 差旅 | 报销 | 账号权限 | 邮箱与应用 | 餐补福利,IT报修 | IT自助服务 | 入职 | 出差 | 密码重置 | 开通权限 | 忘记密码 | 报销 | 报销标准 | 报销流程 | 权限开通 | 权限申请 | 电脑维修 | 福利 | 补贴 | 费用报销 | 邮箱申请 | 重置密码,https://www.feishu.cn/docx/Jh7TdpqyXoiSb8xVFEGcIX0wn0b,,跨批出现 6 | 覆盖类别 8 | 累计命中 18 | 标题强信号 2 | 可读取正文 | 正文强信号 3 | 查询覆盖 18
+73.1,补卡、请假申请流程及注意事项,7,18,7,17,14.86,27.6,docs,IT报修 | 加班与调休 | 差旅 | 考勤 | 薪资个税 | 请假与假期 | 餐补福利,IT报修 | IT自助服务 | 产假 | 休假 | 出差 | 加班申请 | 婚假 | 工资 | 年假 | 打卡 | 病假 | 考勤 | 薪资 | 补卡 | 补贴 | 请假 | 调休,https://www.feishu.cn/docx/FP3zdceUio1HQAxSYqqcsYcTnXd,,跨批出现 7 | 覆盖类别 7 | 累计命中 18 | 标题强信号 2 | 可读取正文 | 正文强信号 1 | 查询覆盖 17
+69.4,EAM系统使用常见问题解决手册,6,13,7,13,19.5,25.5,docs,IT报修 | 加班与调休 | 密码与账号 | 考勤 | 薪资个税 | 请假与假期 | 账号权限,IT报修 | IT故障报修 | 休假 | 修改密码 | 加班 | 工资 | 忘记密码 | 权限审批 | 电脑维修 | 系统权限 | 考勤 | 设备故障 | 账号权限,https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5,,跨批出现 6 | 覆盖类别 7 | 累计命中 13 | 标题强信号 2 | 可读取正文 | 正文强信号 4 | 查询覆盖 13
+46.7,速通捷途研发教程（限时免费版）,6,11,7,11,8.93,16.7,docs,密码与账号 | 差旅 | 社保公积金 | 考勤 | 请假与假期 | 邮箱与应用 | 餐补福利,五险一金 | 出差 | 密码重置 | 忘记密码 | 考勤 | 考勤异常 | 补卡 | 请假 | 重置密码 | 飞书应用 | 餐费,https://www.feishu.cn/docx/HCitdop5RoAoQKxdKZvcBhw7n6f,弱噪声标题 -6 | 高重复弱噪声,跨批出现 6 | 覆盖类别 7 | 累计命中 11 | 可读取正文 | 查询覆盖 11
+45.7,iCAR 行政后勤服务手册,4,10,5,9,15.12,24.0,docs,IT报修 | 加班与调休 | 发票 | 差旅 | 报销,出差 | 加班 | 发票报销 | 发票申请 | 报销 | 报销流程 | 电子发票 | 设备故障 | 费用报销,https://www.feishu.cn/docx/H75vdwtHIo9u6px1gHtcXf2LnGh,,跨批出现 4 | 覆盖类别 5 | 累计命中 10 | 标题强信号 1 | 可读取正文 | 查询覆盖 9
+43.7,内部问题反馈与业务熟悉记录,7,16,8,15,9.43,16.0,wiki,IT报修 | 入职 | 发票 | 差旅 | 报销 | 考勤 | 请假与假期 | 账号权限,IT报修 | 入职 | 发票报销 | 差旅 | 差旅报销 | 差旅标准 | 年假 | 开通权限 | 报销标准 | 报销流程 | 新员工入职 | 权限审批 | 考勤异常 | 请假 | 费用报销,https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe,强噪声标题 -15 | 高重复强噪声,跨批出现 7 | 覆盖类别 8 | 累计命中 16 | 包含知识库来源 | 查询覆盖 15
+42.1,《墨甲机器人出国管理规定》2024版(1),4,7,5,7,10.77,15.2,docs,差旅 | 报销 | 考勤 | 邮箱与应用 | 餐补福利,MFA | 差旅 | 差旅申请 | 报销流程 | 考勤 | 补贴 | 费用报销,https://www.feishu.cn/docx/YGkbdWbBno7ufjxg21RcgiBpnhc,,跨批出现 4 | 覆盖类别 5 | 累计命中 7 | 标题强信号 1 | 可读取正文 | 查询覆盖 7
+41.6,费用&项目常见问题解答,3,12,4,11,12.17,17.5,wiki,发票 | 差旅 | 报销 | 餐补福利,出差审批 | 发票报销 | 发票申请 | 差旅报销 | 差旅标准 | 差旅申请 | 报销入口 | 报销标准 | 报销流程 | 补贴 | 费用报销,https://my-ichery.feishu.cn/wiki/SVtSwdU6RiiM0YkdpQ7ch0IwnNg,,跨批出现 3 | 覆盖类别 4 | 累计命中 12 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 11
+41.3,A04.SAP HR考勤管理操作概述,3,13,4,12,14.67,23.0,wiki,加班与调休 | 考勤 | 薪资个税 | 请假与假期,产假 | 休假 | 加班 | 婚假 | 工资 | 年假 | 打卡 | 病假 | 考勤 | 薪资 | 请假 | 调休,https://my-ichery.feishu.cn/wiki/RXjVwwnFFiuQWtkPRtHcpogxntc,,跨批出现 3 | 覆盖类别 4 | 累计命中 13 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 12
+40.4,开阳-行政服务,5,7,5,6,7.1,8.0,wiki,IT报修 | 加班与调休 | 密码与账号 | 考勤 | 餐补福利,IT故障报修 | IT自助服务 | 加班餐 | 忘记密码 | 补卡 | 餐卡,https://my-ichery.feishu.cn/wiki/NSbGwd0jCi4cdakMFwPcMG7cnme,,跨批出现 5 | 覆盖类别 5 | 累计命中 7 | 包含知识库来源 | 查询覆盖 6
+39.7,信息化指南,4,5,5,5,12.05,18.6,docs,IT报修 | 入职 | 密码与账号 | 账号权限 | 邮箱与应用,IT报修 | 修改密码 | 入职 | 权限申请 | 系统账号,https://www.feishu.cn/docx/DeqcdXPnYoKorCx2F9FcqNmWnyc,,跨批出现 4 | 覆盖类别 5 | 累计命中 5 | 标题强信号 1 | 可读取正文 | 查询覆盖 5
+39.5,国内差旅报销操作方法及注意事项,3,8,4,7,16.67,20.5,docs,发票 | 差旅 | 报销 | 餐补福利,发票 | 发票报销 | 差旅 | 差旅报销 | 差旅申请 | 报销 | 补贴,https://www.feishu.cn/docx/Cugedhbluo8SvpxA09ucGPkQn7f,,跨批出现 3 | 覆盖类别 4 | 累计命中 8 | 标题强信号 2 | 可读取正文 | 查询覆盖 7
+38.9,关于进一步规范出差审批和费用报销管理的通知（股份）.pdf,3,11,4,10,16.67,22.5,wiki,发票 | 差旅 | 报销 | 餐补福利,出差 | 出差审批 | 发票报销 | 差旅报销 | 差旅标准 | 差旅申请 | 报销 | 报销标准 | 补贴 | 费用报销,https://my-ichery.feishu.cn/wiki/I4hRwJTtqikwIDkWLPUcX4IYnse,,跨批出现 3 | 覆盖类别 4 | 累计命中 11 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 10
+37.7,A05.SAP HR薪酬管理操作概述,3,10,4,10,11.17,20.5,wiki,加班与调休 | 社保公积金 | 薪资个税 | 餐补福利,个税 | 五险一金 | 公积金 | 加班 | 发薪 | 工资 | 社保 | 社保缴纳 | 薪资 | 补贴,https://my-ichery.feishu.cn/wiki/WGYowyekxim4HAkl6dBcPA77nch,,跨批出现 3 | 覆盖类别 4 | 累计命中 10 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 10
+34.0,02.售后服务管理基准,4,5,4,5,10.95,16.1,docs,IT报修 | 差旅 | 报销 | 邮箱与应用,企业邮箱 | 差旅 | 差旅报销 | 报销流程 | 设备故障,https://www.feishu.cn/docx/OwoedEF1OoNfOPxQvNRcHPa5nGw,,跨批出现 4 | 覆盖类别 4 | 累计命中 5 | 可读取正文 | 查询覆盖 5
+33.6,OO的说明书,5,8,5,8,7.74,16.7,docs,IT报修 | 密码与账号 | 报销 | 账号权限 | 邮箱与应用,IT报修 | 企业邮箱 | 密码重置 | 忘记密码 | 报销 | 权限开通 | 重置密码 | 飞书应用,https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP,弱噪声标题 -6 | 高重复弱噪声,跨批出现 5 | 覆盖类别 5 | 累计命中 8 | 可读取正文 | 查询覆盖 8
+33.0,墨甲临时采购管理办法,4,5,4,4,7.28,11.1,docs,IT报修 | 发票 | 报销 | 账号权限,发票报销 | 发票申请 | 权限审批 | 设备故障,https://www.feishu.cn/docx/Br5HdgjNSoD6hOxa9lJch5oOnNb,,跨批出现 4 | 覆盖类别 4 | 累计命中 5 | 可读取正文
+32.7,iChery学习手册,4,5,3,5,9.47,13.9,docs,密码与账号 | 薪资个税 | 邮箱与应用,修改密码 | 忘记密码 | 找回密码 | 系统账号 | 薪资,https://www.feishu.cn/docx/MQ0cdaWMeo4aODx2a4fcBKTfn8d,,跨批出现 4 | 覆盖类别 3 | 累计命中 5 | 标题强信号 1 | 可读取正文 | 查询覆盖 5
+32.6,《墨甲机器人员工出入境指南与海外工作安全提醒》-,3,7,3,7,12.5,18.0,docs,差旅 | 报销 | 邮箱与应用,MFA | 差旅 | 差旅报销 | 差旅标准 | 报销标准 | 报销流程 | 费用报销,https://www.feishu.cn/docx/XNh2dAu6EoQMAjxJnbNc6PJfnMj,,跨批出现 3 | 覆盖类别 3 | 累计命中 7 | 标题强信号 1 | 可读取正文 | 查询覆盖 7
+32.4,星海大数据平台账号权限申请,3,7,2,7,12.13,15.7,docs,VPN与远程办公 | 账号权限,VPN | 权限审批 | 权限开通 | 权限申请 | 访问权限 | 账号开通 | 账号权限,https://www.feishu.cn/docx/QlqQdLVrsoJeLCxpVQCc3Drfnyc,,跨批出现 3 | 覆盖类别 2 | 累计命中 7 | 标题强信号 2 | 可读取正文 | 正文强信号 1 | 查询覆盖 7
+31.9,差旅相关问题,4,6,3,6,9.75,12.0,wiki,IT报修 | 差旅 | 餐补福利,出差 | 差旅 | 差旅标准 | 差旅申请 | 提交工单 | 补贴,https://my-ichery.feishu.cn/wiki/UgrIww0E4iS8TEk0LCsc5PPPnKh,,跨批出现 4 | 覆盖类别 3 | 累计命中 6 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 6
+30.6,登录账号、密码、权限,3,7,3,7,13.33,17.0,wiki,IT报修 | 密码与账号 | 账号权限,修改密码 | 密码重置 | 提交工单 | 权限开通 | 访问权限 | 账号权限 | 重置密码,https://my-ichery.feishu.cn/wiki/SKhdweH5Ai356DkojJycVDsdnhe,,跨批出现 3 | 覆盖类别 3 | 累计命中 7 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 7
+30.4,新人入职指南,3,5,3,5,12.5,13.0,wiki,IT报修 | 入职 | 账号权限,IT自助服务 | 入职 | 开通权限 | 新员工入职 | 服务台,https://my-ichery.feishu.cn/wiki/FvbDwS3KTiuH1lkyCewcpQWDnJb,,跨批出现 3 | 覆盖类别 3 | 累计命中 5 | 标题强信号 2 | 包含知识库来源 | 查询覆盖 5
+30.3,差旅费报销,2,7,3,7,18.75,19.5,wiki,发票 | 差旅 | 报销,出差 | 差旅 | 差旅报销 | 差旅申请 | 报销 | 电子发票 | 费用报销,https://my-ichery.feishu.cn/wiki/ODD6wPaHliQ4Amkk29JchNpTnSg,,跨批出现 2 | 覆盖类别 3 | 累计命中 7 | 标题强信号 2 | 包含知识库来源 | 查询覆盖 7
+30.1,26校招话术,5,13,6,11,10.5,17.0,docs,加班与调休 | 社保公积金 | 考勤 | 薪资个税 | 请假与假期 | 餐补福利,五险一金 | 公积金 | 加班 | 加班餐 | 工资 | 打卡 | 社保 | 薪资 | 请假 | 调休 | 餐补,https://www.feishu.cn/docx/AxtydVGtXofBFPxCKJbczcbunHb,强噪声标题 -15 | 高重复强噪声,跨批出现 5 | 覆盖类别 6 | 累计命中 13 | 可读取正文 | 查询覆盖 11
+29.5,2026年费用预提表-威蓝动力,3,5,4,5,8.67,11.5,wiki,IT报修 | 社保公积金 | 薪资个税 | 餐补福利,工资 | 电脑维修 | 社保 | 福利 | 餐费,https://my-ichery.feishu.cn/wiki/HXdNw8gx5iqvozkNRgOcnhpjnfe,,跨批出现 3 | 覆盖类别 4 | 累计命中 5 | 包含知识库来源 | 查询覆盖 5
+29.4,A04.01.SAP HR操作指南-缺勤&加班维护,3,6,3,5,11.67,17.0,wiki,加班与调休 | 考勤 | 请假与假期,加班 | 加班申请 | 考勤 | 请假 | 调休,https://my-ichery.feishu.cn/wiki/Hcq9wruDEidu2qkib7ccqZiJncf,,跨批出现 3 | 覆盖类别 3 | 累计命中 6 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 5
+29.1,各系统账号、权限申请(注销/变更)流程,3,5,2,5,12.5,13.0,wiki,账号权限 | 邮箱与应用,权限开通 | 权限申请 | 系统权限 | 系统账号 | 账号权限,https://my-ichery.feishu.cn/wiki/LBdywjN2Mi4Zxikr5KdcAyaln2g,,跨批出现 3 | 覆盖类别 2 | 累计命中 5 | 标题强信号 3 | 包含知识库来源 | 查询覆盖 5
+28.1,如何申请应用系统的账号和权限？(例：OA、合同系统、SAP、MES、PQCP、SRM...等),3,6,2,6,10.0,11.5,wiki,账号权限 | 邮箱与应用,权限审批 | 权限申请 | 系统权限 | 系统账号 | 账号开通 | 账号权限,https://my-ichery.feishu.cn/wiki/HWepwS7tciM6X5kO7alcgGMunah,,跨批出现 3 | 覆盖类别 2 | 累计命中 6 | 标题强信号 2 | 包含知识库来源 | 查询覆盖 6
+26.9,差旅申请单,3,5,2,5,10.0,12.0,wiki,差旅 | 邮箱与应用,出差 | 单点登录 | 差旅 | 差旅报销 | 差旅申请,https://my-ichery.feishu.cn/wiki/Ln8hwTXnxiVygqknLs0c24fCnOc,,跨批出现 3 | 覆盖类别 2 | 累计命中 5 | 标题强信号 2 | 包含知识库来源 | 查询覆盖 5
+26.6,要不要转？怎么转？社保公积金转移指南,2,5,2,5,16.25,18.5,wiki,入职 | 社保公积金,五险一金 | 入职 | 公积金 | 社保 | 社保缴纳,https://my-ichery.feishu.cn/wiki/BQe6w6INzidMJxkCuzTcQodWnFb,,跨批出现 2 | 覆盖类别 2 | 累计命中 5 | 标题强信号 3 | 包含知识库来源 | 查询覆盖 5
+25.7,VPN申请、注销、续期流程.docx,2,4,3,4,12.25,15.5,wiki,VPN与远程办公 | 邮箱与应用 | 餐补福利,VPN | 福利 | 邮箱权限 | 邮箱申请,https://my-ichery.feishu.cn/wiki/DeJgwFMNyilUMeksrFdcePZanaf,,跨批出现 2 | 覆盖类别 3 | 累计命中 4 | 标题强信号 2 | 包含知识库来源
+25.5,奇瑞国际人才发展系统说明答疑,2,4,3,4,12.85,17.7,docs,密码与账号 | 账号权限 | 邮箱与应用,密码重置 | 系统账号 | 账号开通 | 重置密码,https://www.feishu.cn/docx/Zu73ds4UCohc8OxBc5icjMtbnle,,跨批出现 2 | 覆盖类别 3 | 累计命中 4 | 标题强信号 1 | 可读取正文
+24.9,CGDES常见问题处理手册,2,5,2,5,10.25,11.0,docs,密码与账号 | 邮箱与应用,单点登录 | 密码重置 | 忘记密码 | 系统账号 | 重置密码,https://www.feishu.cn/docx/LbWtdvmV3oPQpYxem6HcfpQGnEe,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 5 | 标题强信号 2 | 查询覆盖 5
+24.8,2025年06月外包供应商考勤表-星途项目,3,3,3,3,9.0,9.0,wiki,加班与调休 | 考勤 | 请假与假期,休假 | 加班申请 | 考勤,https://my-ichery.feishu.cn/wiki/BeNdwimBniUFowk055wckbQTnue,,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+24.8,2025年05月外包供应商考勤表-星途项目,3,3,3,3,9.0,9.0,wiki,加班与调休 | 考勤 | 请假与假期,休假 | 加班申请 | 考勤,https://my-ichery.feishu.cn/wiki/FSpjwR8HBi4e3gkXGXGcsDG0nOb,,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+24.8,A03.03.SAP HR操作指南-人事活动——入、转、调、离,3,3,3,3,9.0,9.0,wiki,考勤 | 薪资个税 | 请假与假期,发薪 | 考勤 | 请假,https://my-ichery.feishu.cn/wiki/FTFQw6RWmip0Kxk7VctcCpfUnhe,,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+24.6,校招面试话术 副本,3,3,3,3,6.83,7.5,docs,差旅 | 薪资个税 | 餐补福利,出差 | 福利 | 薪资,https://www.feishu.cn/docx/Hc2VdjCyJoh5cmxeLaXc0sCfnLe,,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 可读取正文
+23.8,信息安全知识库,3,4,3,4,7.0,8.0,wiki,VPN与远程办公 | 入职 | 账号权限,入职 | 内网访问 | 开通权限 | 新员工入职,https://my-ichery.feishu.cn/wiki/Mh1HwSm1IiGU3KkbQuhcymhdnJc,,跨批出现 3 | 覆盖类别 3 | 累计命中 4 | 包含知识库来源
+23.8,智界数据管理业务指导手册,3,3,3,3,8.0,8.0,docs,请假与假期 | 账号权限 | 邮箱与应用,系统账号 | 请假 | 账号权限,https://www.feishu.cn/docx/TBKhd0mV4o03UDxIXQrc3UHZnlc,正文限流,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 标题强信号 1
+23.8,员工管理制度,3,3,3,3,8.0,8.0,docs,考勤 | 薪资个税 | 请假与假期,休假 | 考勤 | 薪资,https://www.feishu.cn/docx/doxcng2WuNQoFwYt9IDn3iqXqUb,正文限流,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 标题强信号 1
+23.2,业务流程说明及模板参考,2,5,2,4,11.85,12.7,docs,发票 | 报销,发票 | 发票报销 | 报销 | 费用报销,https://www.feishu.cn/docx/KtUcd9ZqroKJVhxDX4Uc2g2znXe,,跨批出现 2 | 覆盖类别 2 | 累计命中 5 | 标题强信号 1 | 可读取正文
+22.5,奇瑞商旅操作指南（股份）,3,4,2,4,9.5,10.5,wiki,差旅 | 餐补福利,出差审批 | 差旅 | 差旅申请 | 补贴,https://my-ichery.feishu.cn/wiki/Nv8KwsV2Xizdxqk2vmscdhDrngc,,跨批出现 3 | 覆盖类别 2 | 累计命中 4 | 标题强信号 1 | 包含知识库来源
+22.5,财务共享系统的报账单关联不了出差申请单,3,4,2,4,7.0,8.0,wiki,差旅 | 餐补福利,出差 | 差旅 | 差旅申请 | 补贴,https://my-ichery.feishu.cn/wiki/W6GNwemvGi7eUjkee67cD32Fnbe,,跨批出现 3 | 覆盖类别 2 | 累计命中 4 | 标题强信号 1 | 包含知识库来源
+22.2,飞书应用上架说明,3,3,2,3,7.63,8.7,docs,账号权限 | 邮箱与应用,权限申请 | 系统权限 | 飞书应用,https://www.feishu.cn/docx/Odx8dEqC0oEsD7xl9JacT71an4c,,跨批出现 3 | 覆盖类别 2 | 累计命中 3 | 可读取正文 | 正文强信号 1
+22.2,报销差旅费，收款银行账户选择不到，无法提交单据,2,4,2,4,14.75,18.0,wiki,差旅 | 报销,差旅 | 差旅报销 | 报销 | 费用报销,https://my-ichery.feishu.cn/wiki/JmQSwakG8iaLQRkZPaLcIX7EncH,,跨批出现 2 | 覆盖类别 2 | 累计命中 4 | 标题强信号 2 | 包含知识库来源
+21.8,芜湖市紫云英“高校毕业生保险费补贴”政策申请指南,2,2,2,2,9.0,10.0,docs,社保公积金 | 餐补福利,社保 | 补贴,https://www.feishu.cn/docx/WC60dxpgnojNm2xIL80cCC3pniV,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 2 | 可读取正文
+21.0,如何申请VPN权限？,2,3,2,3,9.75,10.5,wiki,VPN与远程办公 | 账号权限,VPN | 权限开通 | 访问权限,https://my-ichery.feishu.cn/wiki/St3KwFWWvikYYlkHEHdciDzWnBf,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 2 | 包含知识库来源
+21.0,差旅出行必须行程结束方可报销，行程未完结不允许报销吗？,2,3,2,3,14.0,16.5,wiki,差旅 | 报销,差旅 | 差旅报销 | 报销,https://my-ichery.feishu.cn/wiki/ZEKww9eMpiRxZPkBJugc4IaAnyg,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 2 | 包含知识库来源
+20.3,Polarion(ALM)系统自助修改账户密码(非忘记),3,4,2,4,7.0,8.0,wiki,IT报修 | 密码与账号,IT自助服务 | 修改密码 | 忘记密码 | 重置密码,https://my-ichery.feishu.cn/wiki/NPrswN3n1ifGtYkcoTwcU61Wnlf,,跨批出现 3 | 覆盖类别 2 | 累计命中 4 | 包含知识库来源
+19.6,阿里云无影云桌面使用指南,2,2,2,2,9.0,10.0,docs,密码与账号 | 账号权限,修改密码 | 账号开通,https://www.feishu.cn/docx/EHKyd023voUEEOxLX1AcBD7onmb,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 可读取正文
+19.0,发票采集和影像上传要求,2,5,2,4,8.75,11.0,wiki,发票 | 报销,发票 | 发票报销 | 开票信息 | 电子发票,https://my-ichery.feishu.cn/wiki/LeE7wlvC6iqv6OkA7RVcIGaFngg,,跨批出现 2 | 覆盖类别 2 | 累计命中 5 | 包含知识库来源
+18.8,AI数字员工创建手册,2,3,2,3,9.75,10.5,wiki,IT报修 | 账号权限,IT报修 | IT自助服务 | 开通权限,https://my-ichery.feishu.cn/wiki/XCBgwzYntiYl5bkcAt0ciX53ndg,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+18.8,🤖 新人指南,2,3,2,3,9.75,10.5,wiki,入职 | 账号权限,入职 | 开通权限 | 账号开通,https://my-ichery.feishu.cn/wiki/GoG9wULgPicNUtk951rc7GwynHf,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+18.8,日常费用报销单,2,3,2,3,9.75,10.5,wiki,报销 | 餐补福利,报销 | 补贴 | 费用报销,https://my-ichery.feishu.cn/wiki/VxaUwUmrkihRpZkXt94ckWtCnXb,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+18.8,资产报账单报销时，付款金额小于发票金额（如有质保款的情况），应该怎么填写支付方式？,2,3,2,2,9.25,10.0,wiki,发票 | 报销,发票报销 | 报销流程,https://my-ichery.feishu.cn/wiki/UjEFwfYfMiSB19klzMBc9kECnqh,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+18.7,3.1.2 项目权限申请,2,4,1,4,10.5,12.0,wiki,账号权限,权限审批 | 权限开通 | 权限申请 | 访问权限,https://my-ichery.feishu.cn/wiki/RLhvwCwtQirXzgkZ2wwceuOFnfb,,跨批出现 2 | 覆盖类别 1 | 累计命中 4 | 标题强信号 2 | 包含知识库来源
+17.8,如何重置/解锁SAP密码,2,4,2,4,8.0,9.5,wiki,IT报修 | 密码与账号,IT报修 | 密码重置 | 账号解锁 | 重置密码,https://my-ichery.feishu.cn/wiki/NULzwi5q5iYVbykJKpRcd3jsnYb,,跨批出现 2 | 覆盖类别 2 | 累计命中 4 | 包含知识库来源
+17.8,如何修改域密码？,2,4,2,4,9.75,11.5,wiki,VPN与远程办公 | 密码与账号,VPN | 修改密码 | 密码重置 | 重置密码,https://my-ichery.feishu.cn/wiki/VG7rw0rn6iQgi0kWDfXc3PpKnVe,,跨批出现 2 | 覆盖类别 2 | 累计命中 4 | 包含知识库来源
+17.8,新员工入职须知,2,3,2,3,8.75,9.5,docs,入职 | 邮箱与应用,入职 | 新员工入职 | 邮箱申请,https://www.feishu.cn/docx/LOyadT33WoZrFJxvsBgcGbYYnWc,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 标题强信号 1
+17.6,捷途试验车系统角色权限有哪些？,2,2,2,2,9.0,9.0,wiki,VPN与远程办公 | 账号权限,系统权限 | 远程权限,https://my-ichery.feishu.cn/wiki/XMwuwn2LUiw5r5k67r4cPyebn7b,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+17.6,2025年04月外包供应商考勤表-星途项目,2,2,2,2,9.0,9.0,wiki,加班与调休 | 考勤,加班申请 | 考勤,https://my-ichery.feishu.cn/wiki/KlXWwfUbei6NjJkw1rvcJYEKnj0,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+17.6,使用ETC通行高速公路时，只有汇总单，没有发票如何报销?,2,2,2,1,9.0,9.0,wiki,发票 | 报销,发票报销,https://my-ichery.feishu.cn/wiki/FCITwLLzNiJWs0krYuHcH6esnib,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+17.5,权限申请,2,3,1,3,9.75,10.5,wiki,账号权限,权限审批 | 权限开通 | 权限申请,https://my-ichery.feishu.cn/wiki/Xk94wZxgSi8YSukx09VcvLzYnfh,,跨批出现 2 | 覆盖类别 1 | 累计命中 3 | 标题强信号 2 | 包含知识库来源
+17.4,招聘宣传落地页,2,2,2,2,7.5,7.5,docs,VPN与远程办公 | 餐补福利,福利 | 远程办公,https://www.feishu.cn/docx/doxcnaYfmLKUn33646TZUvWQoMm,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 可读取正文
+17.3,Mornine（墨茵）机器人操作手册 V0.4,2,3,1,3,11.55,15.1,docs,密码与账号,修改密码 | 忘记密码 | 找回密码,https://www.feishu.cn/docx/IytJdnpZtoOPW8xV4klcp4aOnHh,,跨批出现 2 | 覆盖类别 1 | 累计命中 3 | 标题强信号 1 | 可读取正文
+16.6,资源账号（共享）,2,3,2,3,7.25,8.0,wiki,VPN与远程办公 | 账号权限,VPN | 内网访问 | 账号权限,https://my-ichery.feishu.cn/wiki/QNZQwMIp5iioDmkuj15cVFZQnPG,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+16.6,驻场外协管理规范(弃),2,3,2,3,9.75,10.5,wiki,报销 | 考勤,打卡 | 报销流程 | 漏打卡,https://my-ichery.feishu.cn/wiki/C7DIwak8EifVCZkibKMckzFlnye,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+16.6,增值税专用发票为何必须要上传发票联，抵扣联为何不行？,2,3,2,2,7.25,8.0,wiki,发票 | 报销,发票 | 发票报销,https://my-ichery.feishu.cn/wiki/HB09wh5Bsi1aM4kqmXoc9BDmnIg,,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+16.6,新人必备指南,2,2,2,2,8.0,8.0,docs,入职 | 社保公积金,五险一金 | 入职办理,https://www.feishu.cn/docx/U9LLdzGfioj4XjxNwSscJR15nTf,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1
+16.3,特殊网络权限申请,2,2,1,2,9.0,9.0,wiki,账号权限,权限申请 | 访问权限,https://my-ichery.feishu.cn/wiki/CI6CwEp7eiYwdCka4cPcMrVAnWc,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 包含知识库来源
+16.3,如何申请USB权限？,2,2,1,2,9.0,9.0,wiki,账号权限,开通权限 | 权限申请,https://my-ichery.feishu.cn/wiki/PM0pwgEGLil7zZkiNO4cHCzBnlg,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 包含知识库来源
+16.3,如何申请本地管理员权限？,2,2,1,2,9.0,9.0,wiki,账号权限,权限开通 | 权限申请,https://my-ichery.feishu.cn/wiki/FlLbwD2byijRpykXriwcpiCnnQd,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 包含知识库来源
+16.3,如何申请国际网络chery-international访问权限,2,2,1,2,9.0,9.0,wiki,账号权限,权限申请 | 访问权限,https://my-ichery.feishu.cn/wiki/E8jlwNq6IihRW3kRivNcky1dnGE,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 包含知识库来源
+16.3,常见问题答疑（FAQ）,1,1,1,1,11.5,11.5,wiki,考勤,签到,https://my-ichery.feishu.cn/wiki/NaCqwCJVYi5Me4klQe3c9AqFnJg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 3 | 包含知识库来源
+16.1,2026 节假日一览表,1,3,2,2,14.0,14.0,docs,加班与调休 | 请假与假期,休假 | 调休,https://www.feishu.cn/docx/doxcnvxWoHd0RO6BgW1RBmCqh0f,,跨批出现 1 | 覆盖类别 2 | 累计命中 3 | 可读取正文
+16.0,合同系统中审批人权限需要修改，或者申请某个合同审批流程的发起权限，如何处理？,1,2,1,2,13.0,13.0,wiki,账号权限,权限审批 | 系统权限,https://my-ichery.feishu.cn/wiki/Ss35wbs5Xin5TckVOm5c9RdOnUe,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 3 | 包含知识库来源
+15.8,离职申请,1,2,1,2,11.5,11.5,docs,薪资个税,工资 | 薪资,https://www.feishu.cn/docx/doxcnaJJUq5b0o5tRBcXF1sDXhb,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 可读取正文
+15.6,IP账号脚本—路遥,2,3,2,3,6.25,7.0,docs,薪资个税 | 请假与假期,休假 | 工资 | 年假,https://www.feishu.cn/docx/POykdf4B7o2aOExHWhwczdXMnrg,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 3
+15.4,SSO-接入开通信息标准,2,2,2,2,6.5,6.5,wiki,账号权限 | 邮箱与应用,SSO | 开通权限,https://my-ichery.feishu.cn/wiki/QbejwN2SMiiQsDkiOpycZxkQnte,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,CGBOM系统账号,2,2,2,2,6.5,6.5,wiki,账号权限 | 邮箱与应用,系统权限 | 系统账号,https://my-ichery.feishu.cn/wiki/FvqVwJqh6ikSoSkYhhEcQ7oUnVg,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,短信站内信文案,2,2,2,2,6.5,6.5,wiki,密码与账号 | 考勤,找回密码 | 签到,https://my-ichery.feishu.cn/wiki/JE2IwTbV1iLx5JkqyuRctLxonlg,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,对胖东来模式的思考,2,2,2,2,6.5,6.5,wiki,请假与假期 | 餐补福利,年假 | 福利,https://my-ichery.feishu.cn/wiki/D7ivwNlGTinAXaknJbOcFjJ4nWf,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,个人垫支采购的费用如何借款，如何进行冲销操作,2,2,2,1,6.5,6.5,wiki,发票 | 报销,发票报销,https://my-ichery.feishu.cn/wiki/XsRHwKWvviZALDkr2OfcujmXntb,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,AU 澳大利亚 Australia,2,2,2,2,6.5,6.5,wiki,社保公积金 | 餐补福利,社保 | 福利,https://my-ichery.feishu.cn/wiki/Ikx6wFsrViWZBPk2H1DcCFIpn9e,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.4,SDC三期数据库设计.docx,2,2,2,2,6.5,6.5,wiki,入职 | 社保公积金,入职办理 | 社保,https://my-ichery.feishu.cn/wiki/VmM0wlpywipGrXk2O3IcxrXBn8g,,跨批出现 2 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+15.1,新人指引,1,2,2,2,14.0,14.0,wiki,加班与调休 | 请假与假期,加班 | 请假,https://my-ichery.feishu.cn/wiki/JI6Sw6qKtiqISyk10mMcMfyGngd,,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+15.1,新人指引,1,2,2,2,14.0,14.0,wiki,加班与调休 | 请假与假期,加班 | 请假,https://my-ichery.feishu.cn/wiki/WYqdwgLHzi3M72kx9v3cor5bnZT,,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+14.9,当年度累计薪资数据导入指南1,1,6,2,6,20.0,20.0,wiki,社保公积金 | 薪资个税,个税 | 公积金 | 工资 | 社保 | 社保缴纳 | 薪资,https://my-ichery.feishu.cn/wiki/F4Viwyzc4iJI01kpi8VcVQo2nSb,弱噪声标题 -6,跨批出现 1 | 覆盖类别 2 | 累计命中 6 | 标题强信号 1 | 包含知识库来源 | 查询覆盖 6
+14.9,月間スケジュール管理,1,2,2,1,12.5,12.5,docs,加班与调休 | 请假与假期,调休,https://www.feishu.cn/docx/BMhOdF7uHoIAiUxIFyYcRVznnXb,,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 可读取正文
+14.8,CJLR安防业务说明书,2,3,2,3,9.05,11.1,docs,IT报修 | 账号权限,开通权限 | 权限开通 | 设备故障,https://www.feishu.cn/docx/WREtdAJikoymj9xXxUQcbl2Hngr,弱噪声标题 -6,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 可读取正文 | 正文强信号 2
+14.4,集团培训签到与评估码,2,2,2,2,2.5,2.5,docs,考勤 | 账号权限,权限申请 | 签到,https://www.feishu.cn/docx/YmhfdbfDYo6t1ex50S5cwgVCn6p,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 2
+14.4,奇瑞通勤班车温馨提示,2,2,2,2,5.5,5.5,docs,发票 | 报销,发票 | 报销,https://www.feishu.cn/docx/X9H3d9FJRoVz49xbYhycQidenoc,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 2
+14.4,招聘启事,2,2,2,2,5.5,5.5,docs,薪资个税 | 餐补福利,福利 | 薪资,https://www.feishu.cn/docx/doxcnvjyCz7jVfTlWfNq29fZ9zh,正文限流,跨批出现 2 | 覆盖类别 2 | 累计命中 2
+14.3,用户自助重置密码后端设计方案,2,4,1,4,8.0,9.5,wiki,密码与账号,修改密码 | 密码重置 | 忘记密码 | 重置密码,https://my-ichery.feishu.cn/wiki/MqgpwZmHVi8fkckFBGncfOIsnze,,跨批出现 2 | 覆盖类别 1 | 累计命中 4 | 包含知识库来源
+14.1,3.1 TC账号&项目权限管理,2,2,1,2,9.0,9.0,wiki,账号权限,权限开通 | 账号权限,https://my-ichery.feishu.cn/wiki/HfZGwm6BnipPPGkTkzpc69Swnog,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+14.1,账号申请管理,2,2,1,2,6.5,6.5,wiki,账号权限,账号开通 | 账号权限,https://my-ichery.feishu.cn/wiki/J4SrwNHwwiiCOLkO8PRcNYZRnm4,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+14.1,2026年1月加班申请.xls,2,2,1,2,6.5,6.5,wiki,加班与调休,加班 | 加班申请,https://my-ichery.feishu.cn/wiki/KdUSwHscwiX1i7kxk2wc1CFAnLg,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+14.1,A06.SAP HR用户反馈问题解答合集,1,3,2,2,13.0,13.0,wiki,加班与调休 | 请假与假期,休假 | 调休,https://my-ichery.feishu.cn/wiki/VkH1wzFVXiThc9kPX8icxbDundK,,跨批出现 1 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+14.1,Apollo 项目功能开发计划,1,3,2,2,13.0,13.0,wiki,加班与调休 | 请假与假期,产假 | 调休,https://my-ichery.feishu.cn/wiki/WbziwRtJWi5dKwk7RsVcn479nGh,,跨批出现 1 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+13.9,当年度累计薪资数据导入2,1,7,2,7,19.0,19.0,wiki,社保公积金 | 薪资个税,个税 | 五险一金 | 公积金 | 工资 | 社保 | 社保缴纳 | 薪资,https://my-ichery.feishu.cn/wiki/JipuwlrI6iZ8yXkASoOcO1vlnPg,弱噪声标题 -6,跨批出现 1 | 覆盖类别 2 | 累计命中 7 | 包含知识库来源 | 查询覆盖 7
+13.8,3.1.5 离职权限转移,1,2,1,2,13.0,13.0,wiki,账号权限,权限开通 | 访问权限,https://my-ichery.feishu.cn/wiki/YP2AwK9YgiYuT2kviEKcPWCBn1c,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 2 | 包含知识库来源
+13.6,新员工入职,1,2,1,2,11.5,11.5,docs,入职,入职 | 新员工入职,https://www.feishu.cn/docx/UNYMdY4Voo5YPtxfRE8cPamPnwh,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 可读取正文
+13.3,海行云工作日常,2,4,1,4,7.0,8.5,docs,账号权限,开通权限 | 权限开通 | 系统权限 | 账号权限,https://www.feishu.cn/docx/R6QudejIoorfKTxM46FcAf5Cneb,正文限流,跨批出现 2 | 覆盖类别 1 | 累计命中 4
+13.1,网络学院常见问题备忘（FAQ）,1,1,1,1,8.0,8.0,docs,邮箱与应用,飞书应用,https://www.feishu.cn/docx/OzV7dUWOJoEBc3xkiFhc9OPWnyg,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2
+12.9,系统管理,1,2,2,2,11.5,11.5,wiki,密码与账号 | 邮箱与应用,找回密码 | 邮箱权限,https://my-ichery.feishu.cn/wiki/ZS9LwZpy7iLKeFkw0JacLW0Snve,,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+12.8,因公行程变动产生退票、改签费如何报销？,1,3,1,3,12.0,12.0,wiki,报销,报销 | 报销标准 | 费用报销,https://my-ichery.feishu.cn/wiki/XQcVwut4sip4TZkoQ8BcWDkanbd,,跨批出现 1 | 覆盖类别 1 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+12.8,报账单关联不了2个出差申请单,1,3,1,3,9.5,9.5,wiki,差旅,出差 | 出差审批 | 差旅申请,https://my-ichery.feishu.cn/wiki/BKtmwVyKviMzutklH4AcZ2HXnDb,,跨批出现 1 | 覆盖类别 1 | 累计命中 3 | 标题强信号 1 | 包含知识库来源
+12.6,变更流程业务和IT支持人员(20),1,1,1,1,11.5,11.5,wiki,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/Z10Uwmme1ivAcMk53VbcsgmnnUv,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,2.0账号申请流程,1,1,1,1,9.0,9.0,wiki,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/GTAuwaVS8iIERbkiqd6c8yJXnje,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,CGERS账号申请流程,1,1,1,1,9.0,9.0,wiki,账号权限,账号开通,https://my-ichery.feishu.cn/wiki/R8LKwILdai7G8Sku2IeciqnjnUo,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,专线访问内网业务申请流程,1,1,1,1,9.0,9.0,wiki,VPN与远程办公,内网访问,https://my-ichery.feishu.cn/wiki/PVICwZWwziJ6fkkZaDcc5mi2nof,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,云桌面申请流程,1,1,1,1,9.0,9.0,wiki,VPN与远程办公,内网访问,https://my-ichery.feishu.cn/wiki/XCjGwy0WriZjNqktvt3cMeOunuf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,IOT系统账号申请指南,1,1,1,1,9.0,9.0,wiki,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/Ez71wyaYLiODLJkCkricr31Mnwc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.6,零件号申请流程（新号）系统操作,1,1,1,1,9.0,9.0,wiki,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/FMtPw7a6giIqbdk7UlocBwKCnC2,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2 | 包含知识库来源
+12.4,部门规章制度,1,1,1,1,10.0,10.0,docs,考勤,考勤,https://www.feishu.cn/docx/C7mWdnkpuo7x3nxyqdicDvt5nFg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 可读取正文
+11.9,控股OA密码如何自助更改,2,2,1,2,6.5,6.5,wiki,密码与账号,修改密码 | 密码重置,https://my-ichery.feishu.cn/wiki/VUJAwV8HriZWWakgxKNcYCn2ndd,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+11.9,门户登录页用什么账号和密码登录?,2,2,1,2,6.5,6.5,wiki,密码与账号,忘记密码 | 找回密码,https://my-ichery.feishu.cn/wiki/AovswBe6gizjGDkomclc9jcOnTe,,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+11.9,飞书应用FAQ,1,1,1,1,9.0,9.0,wiki,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/DnazwR9vgiJhZckJyT7ccdLmnbe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+11.9,星途EX7产品盲定及预售FAQ,1,1,1,1,9.0,9.0,wiki,餐补福利,补贴,https://my-ichery.feishu.cn/wiki/XnGJw2Y8mipgYLktBDHcwKA7nNR,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+11.6,飞书如何IT自助报修,1,2,1,2,10.5,10.5,wiki,IT报修,IT报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/VPVPwxV2ci54odkJslNcLiNvnVh,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+11.6,如何申请新电脑？,1,2,1,2,8.0,8.0,wiki,IT报修,IT报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/Gn4MwaRHNipTAukdCSxcWfK3nIf,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+11.6,如何申请公共邮箱,1,2,1,2,8.0,8.0,wiki,邮箱与应用,企业邮箱 | 邮箱申请,https://my-ichery.feishu.cn/wiki/UG4iwHglBicSuDkz927cYIZOnlc,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+11.6,住宿或交通超过标准如何报销？,1,2,1,2,10.5,10.5,wiki,报销,报销 | 报销标准,https://my-ichery.feishu.cn/wiki/KDlBwsscGi2ypRkinqYcvdpknen,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+11.6,新员工入职培训,1,2,1,2,7.5,7.5,wiki,入职,入职 | 新员工入职,https://my-ichery.feishu.cn/wiki/Big0wPSubielFVkgWPbcJnxDnyg,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 包含知识库来源
+11.6,墨甲机器人-海外差旅流程事项,1,1,1,1,10.5,10.5,docs,差旅,差旅,https://www.feishu.cn/docx/GqKBdKAQLoqro4xyg2zc5YaAnbe,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2
+11.6,入职指南,1,1,1,1,10.5,10.5,docs,入职,入职,https://www.feishu.cn/docx/doxcnyzM1jOYaHHvJF6BtyrXpjb,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 2
+10.6,【国际】-APP API接口协议(APP云)-V1.0.2.doc,2,3,2,3,9.0,11.5,wiki,VPN与远程办公 | 密码与账号,忘记密码 | 找回密码 | 远程权限,https://my-ichery.feishu.cn/wiki/TwPtwgmIZiE1aSkdjtUcvUZDnDe,弱噪声标题 -6,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+10.6,增值税电子发票要不要填税率税额？,1,3,1,3,9.5,9.5,wiki,发票,发票 | 发票申请 | 电子发票,https://my-ichery.feishu.cn/wiki/IHHuwAUBwi1Yv4kiygac5LMDnUc,,跨批出现 1 | 覆盖类别 1 | 累计命中 3 | 包含知识库来源
+10.4,IT自助报修后如何自行关闭工单,1,1,1,1,11.5,11.5,wiki,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/BXEPwPGVEiidrqk68ducBswXnne,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,IOT 标准、规范、流程,1,1,1,1,11.5,11.5,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/HcRlwOqdhihztSk0WdocRjw2nVD,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,ABOM工程师作业指导手册,1,1,1,1,9.0,9.0,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/RRCPwAILQiwH6ZkqWuAc6Afhnmh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,咨询故障报单流程,1,1,1,1,9.0,9.0,wiki,IT报修,服务台,https://my-ichery.feishu.cn/wiki/LEgFwqEgQi12isk07RbcDZNCnLd,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,7.点击管理 找不到提交到工作流程按钮.docx,1,1,1,1,9.0,9.0,wiki,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/J0IUwKKAvihdLskShc9cbVynnvY,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,审批流程,1,1,1,1,9.0,9.0,wiki,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/YzwbwkiiviP0ZmkasEJcJgEHn4f,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,3.1.1 TC账号申请,1,1,1,1,6.5,6.5,wiki,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/PO4swg0mEim8XkkGiCgcVknhnmh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,DFMEA系统角色权限对应功能有哪些？,1,1,1,1,9.0,9.0,wiki,账号权限,系统权限,https://my-ichery.feishu.cn/wiki/QinowkRfTiKT01k2ZF3cQ1SYnic,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,如何查看自己电脑是否有管理员权限,1,1,1,1,9.0,9.0,wiki,账号权限,访问权限,https://my-ichery.feishu.cn/wiki/YClXwVPWQi3SA7kLvBEcRNotnte,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,新建ADA权限,1,1,1,1,9.0,9.0,wiki,账号权限,访问权限,https://my-ichery.feishu.cn/wiki/FYGMwCG7iiCI2WkuDh5cziQSnI5,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,对公报销时选择不到供应商银行账号或者选择不到供应商信息,1,1,1,1,9.0,9.0,wiki,账号权限,账号开通,https://my-ichery.feishu.cn/wiki/Fkonw7F2piEUAbkyy5gcR7Hinsh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,提交OA银行账号维护申请后，RPA反馈银行联行号不正确如何操作？,1,1,1,1,6.5,6.5,wiki,账号权限,账号开通,https://my-ichery.feishu.cn/wiki/Zl76wd4vmi9sTDkJog6csazKnxf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,如何申请devops平台帐号？,1,1,1,1,6.5,6.5,wiki,账号权限,账号开通,https://my-ichery.feishu.cn/wiki/LIMpwSk99iAgXwkD24wcFcfBnRd,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,云桌面使用指南,1,1,1,1,9.0,9.0,wiki,VPN与远程办公,内网访问,https://my-ichery.feishu.cn/wiki/OlD3wWysviBsP8k5noKcpeLYnDh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,Apollo Android 项目新人指引,1,1,1,1,9.0,9.0,wiki,VPN与远程办公,内网访问,https://my-ichery.feishu.cn/wiki/OnPbwKJ1oibQGmk1JUecZai5nPh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,APP操作手册,1,1,1,1,9.0,9.0,wiki,VPN与远程办公,远程权限,https://my-ichery.feishu.cn/wiki/WHLowfHRcieB6Fkq6hAcWso7nRe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,内外饰供应商通讯录及对应负责人,1,1,1,1,9.0,9.0,wiki,邮箱与应用,企业邮箱,https://my-ichery.feishu.cn/wiki/RnZywk2VliLLkJk9yQrcxirPnSe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,VPN申请清单-珍岛.xlsx,1,1,1,1,6.5,6.5,wiki,VPN与远程办公,VPN,https://my-ichery.feishu.cn/wiki/S3HzwJmpqi8cTXkkKsQcUVi1npg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,内网间访问业务安全评估申请表v4.1.xlsx,1,1,1,1,6.5,6.5,wiki,VPN与远程办公,内网访问,https://my-ichery.feishu.cn/wiki/CdbdwWlG2iYq86k7HoOcTR5Dnlf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,如何申请/注销域账号、飞书账号、邮箱账号？,1,1,1,1,6.5,6.5,wiki,邮箱与应用,邮箱申请,https://my-ichery.feishu.cn/wiki/OGmtwEwPKilShmkjvY3cBJrenHb,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,赛道二参赛指南：场景创新·驱动业务（团队赛）,1,1,1,1,9.0,9.0,wiki,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/MHBTwBsZ8iNVAVk0IqhcfiXXnTg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,单点登录配置场景&流程,1,1,1,1,9.0,9.0,wiki,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/NY3gwV3NaiAb56k5iYScO4IBnRf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,流程图设计-对接单点登录,1,1,1,1,9.0,9.0,wiki,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/IE8Xw9dNbifW2tk6zfIcNht6nhb,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,SSO登录几种场景流程图,1,1,1,1,9.0,9.0,wiki,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/VA2QwHCShi2TCBkpEvYckJlFnVe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,sso代理IAM授权流程图,1,1,1,1,9.0,9.0,wiki,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/JXhgwjhtiiPzO4kmrutc7Anenne,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,DevOps工作指引,1,1,1,1,9.0,9.0,wiki,邮箱与应用,MFA,https://my-ichery.feishu.cn/wiki/AYbpwQBVMiadLakJ3SHc9TYRnkf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,考勤系统,1,1,1,1,9.0,9.0,wiki,考勤,考勤,https://my-ichery.feishu.cn/wiki/OUiLwMRsUilhf4kdlYbcttpwnhg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,2025考勤,1,1,1,1,9.0,9.0,wiki,考勤,考勤,https://my-ichery.feishu.cn/wiki/DVIxwlzWRiWt70kcSNocQzuAnud,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,飞书云文档内存如何申请扩容？,1,1,1,1,6.5,6.5,wiki,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/Ntfow3bumiD6CJkSPKocQybhnsf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,报销填单问题,1,1,1,1,9.0,9.0,wiki,报销,报销,https://my-ichery.feishu.cn/wiki/BEztwS31oiAePOkmPO6cwr9Tncb,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,报销作为固定资产管理的车辆需要哪些资料？,1,1,1,1,9.0,9.0,wiki,报销,报销标准,https://my-ichery.feishu.cn/wiki/Actfwr5LZiMbhlkP8ascZzmrnJH,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,A03.01.SAP HR操作指南-信息类型介绍,1,1,1,1,9.0,9.0,wiki,薪资个税,工资,https://my-ichery.feishu.cn/wiki/JIOkwEkFxiIykYk74EjcBMgynoh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,C03-M-01整车产品开发手册C.0.pdf,1,1,1,1,9.0,9.0,wiki,薪资个税,税务申报,https://my-ichery.feishu.cn/wiki/QMBiwmavfiBx56kR6dicsTfDnve,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,奇瑞数据合规制度体系,1,1,1,1,9.0,9.0,wiki,餐补福利,福利,https://my-ichery.feishu.cn/wiki/Yiabw3Ue9ieSiikr7LEccwFOnLe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,数据跨境要求指引,1,1,1,1,9.0,9.0,wiki,餐补福利,福利,https://my-ichery.feishu.cn/wiki/YZ8nwnLMmi6vnhkrMkVcCyxNnkg,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,入职必看,1,1,1,1,9.0,9.0,wiki,入职,入职,https://my-ichery.feishu.cn/wiki/WKrUwEBhfizt8pkBYwHcaf1enye,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,Apollo iOS 项目新员工指引,1,1,1,1,9.0,9.0,wiki,入职,新员工入职,https://my-ichery.feishu.cn/wiki/NSNkwlEcOixfA5kLX7PcmMOVnoc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,新人入职文档梳理责任表,1,1,1,1,9.0,9.0,wiki,入职,新员工入职,https://my-ichery.feishu.cn/wiki/Kknqw2MF3iOuRckt2h3cXK8fnfc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.4,赛道一参赛指南：知识共享·全员共创（个人赛）,1,1,1,1,9.0,9.0,wiki,入职,新员工入职,https://my-ichery.feishu.cn/wiki/PeF7w0Otjii1dmk5umcc1eiUnOh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 包含知识库来源
+10.2,03.售后备件管理基准,1,1,1,1,8.7,8.7,docs,IT报修,设备故障,https://www.feishu.cn/docx/CxNHd4i1RoQVqyxtoLIct77pnbK,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.2,达人孵化部11月总结与12月计划,1,1,1,1,7.5,7.5,docs,账号权限,开通权限,https://www.feishu.cn/docx/SlmKdobb1oQzPFxqruicV5l5ntf,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.2,健身打卡,1,1,1,1,7.5,7.5,docs,考勤,打卡,https://www.feishu.cn/docx/Cdo0dNy7Ko2P6gxoRUfcNG27njc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.2,旅行计划,1,1,1,1,7.5,7.5,docs,考勤,打卡,https://www.feishu.cn/docx/YU8sdVEJwo4bv0xyejacTOjInYd,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.2,宅家电影清单,1,1,1,1,7.5,7.5,docs,餐补福利,福利,https://www.feishu.cn/docx/doxcnc78f5ZcxITi8N1O2YpOSGd,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.2,直播策划方案,1,1,1,1,7.5,7.5,docs,餐补福利,福利,https://www.feishu.cn/docx/CkTrdOrOJonxTUxFDZXcXu7pnCe,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 可读取正文
+10.1,ODIN权限管理功能相关数据表统计,2,2,1,2,9.0,10.0,docs,账号权限,系统权限 | 账号权限,https://www.feishu.cn/docx/EpdCdAFndoMl7fxgiw8c3QwDnqg,弱噪声标题 -6,跨批出现 2 | 覆盖类别 1 | 累计命中 2 | 标题强信号 1 | 可读取正文
+9.4,瑞龙项目（30国密码重置).xlsx,1,2,1,2,8.0,8.0,wiki,密码与账号,密码重置 | 重置密码,https://my-ichery.feishu.cn/wiki/Me8ow4c72i8TVfkccJvcLpAsneg,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,账号与密码,1,2,1,2,8.0,8.0,wiki,密码与账号,密码重置 | 重置密码,https://my-ichery.feishu.cn/wiki/E0ihwZaX8i7189k6J4nctbAHnLd,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,4.1.2用户设置,1,2,1,2,8.0,8.0,wiki,密码与账号,密码重置 | 忘记密码,https://my-ichery.feishu.cn/wiki/A0dNwPHA2itmspki3MGcdznwnic,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,GitLab,1,2,1,2,8.0,8.0,wiki,邮箱与应用,企业邮箱 | 邮箱申请,https://my-ichery.feishu.cn/wiki/JEpywM4xNioxb9kUAAqciQmhnnc,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,颜色bom工程师邮箱地址配置,1,2,1,2,8.0,8.0,wiki,邮箱与应用,邮箱权限 | 邮箱申请,https://my-ichery.feishu.cn/wiki/HzWxwFlgciCvZ8kqvxkc9qDGnBh,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,飞书授权登录开发设计,1,2,1,2,8.0,8.0,wiki,邮箱与应用,单点登录 | 飞书应用,https://my-ichery.feishu.cn/wiki/H0J8w0VDGicF52k1SJ6cV61Insg,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,Message数据大对象V2.0,1,2,1,2,8.0,8.0,wiki,请假与假期,年假 | 病假,https://my-ichery.feishu.cn/wiki/LPBtwzENliSsclkvr8qc8SGAnJc,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,填单时“发票信息”字段是什么意思?,1,2,1,2,8.0,8.0,wiki,发票,发票 | 开票信息,https://my-ichery.feishu.cn/wiki/NUPzw9jb2iB23hkedj6cc21unzh,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,施工管理知识,1,2,1,2,8.0,8.0,wiki,薪资个税,工资 | 薪资,https://my-ichery.feishu.cn/wiki/HGapwvkiJiaZ9OkHpjpcrpLZnNJ,,跨批出现 1 | 覆盖类别 1 | 累计命中 2 | 包含知识库来源
+9.4,CGBOM1.0 申请说明,1,1,1,1,5.5,5.5,docs,账号权限,权限申请,https://www.feishu.cn/docx/TqdNdqA0fo3kc4x9CurcdMwlnJd,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1
+9.4,数据安全工作指引,1,1,1,1,8.0,8.0,docs,账号权限,访问权限,https://www.feishu.cn/docx/UCVHdhjeIoWWYVxUnUUcoePRnMh,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1
+9.4,移动端App测试管理流程 副本0820,1,1,1,1,5.0,5.0,docs,账号权限,系统权限,https://www.feishu.cn/docx/VG9ZdHKntouWWixLWvoc8OACneb,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1
+9.4,集团统一培训签到与评估操作指南,1,1,1,1,5.0,5.0,docs,考勤,签到,https://www.feishu.cn/docx/D4cOdATc5oWEraxANQGcox7unn1,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1
+9.4,总流程 试制内外饰有年框执行 1.0（左边有目录）,1,1,1,1,8.0,8.0,docs,发票,发票,https://www.feishu.cn/docx/Kn5VdOFNRoW2QrxWVMtcS8C8nQg,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1
+9.3,A09.SAP HR系统上线缺勤定额导入,1,4,2,3,14.5,14.5,wiki,加班与调休 | 请假与假期,年假 | 病假 | 调休,https://my-ichery.feishu.cn/wiki/JwtvwRJM6ifpLskCZPQcJc6NnPc,弱噪声标题 -6,跨批出现 1 | 覆盖类别 2 | 累计命中 4 | 包含知识库来源
+8.9,奇瑞座舱本地设置-连接设置产品需求文档_V1.0.2_E0V_1125,1,2,2,2,12.5,12.5,docs,VPN与远程办公 | 密码与账号,修改密码 | 远程连接,https://www.feishu.cn/docx/O6EPdap9OoREXxxQuXxcOqI3nsb,弱噪声标题 -6,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 可读取正文
+8.4,奇瑞座舱DVR产品需求文档_V1.0.0h_E0V_0421,2,2,2,2,5.5,5.5,docs,IT报修 | 账号权限,设备故障 | 访问权限,https://www.feishu.cn/docx/CpHddc5MOol2XHxarB8cohEVnKd,正文限流 | 弱噪声标题 -6,跨批出现 2 | 覆盖类别 2 | 累计命中 2
+8.4,营销数字化项目集进展汇报 副本,1,2,1,2,7.0,7.0,docs,账号权限,开通权限 | 权限开通,https://www.feishu.cn/docx/JFMzdnUJBoLdt3xkLh3c63kbnEE,正文限流,跨批出现 1 | 覆盖类别 1 | 累计命中 2
+8.2,有线网无法连接？,1,1,1,1,6.5,6.5,wiki,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/T94IwEq83ifNtRkyLJAcLFMXnbc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+8.2,V2.0,1,1,1,1,6.5,6.5,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/Jm6qwH4SHih1mmk9GK6c1jfgnrd,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+8.2,常熟工厂停线记录,1,1,1,1,6.5,6.5,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/B2nkwep5Ui2YdjkA5bOci8tGnCh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+8.2,🔥投稿加热,1,1,1,1,6.5,6.5,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/WMwWwPRYuis5BPkeRtacsZ15nvh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+8.2,Harmony面试题库,1,1,1,1,6.5,6.5,wiki,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/AogZwfVbbi3yuqkSJjpcVvJ0nQh,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+8.2,IT自助知识库,1,1,1,1,6.5,6.5,wiki,IT报修,IT自助服务,https://my-ichery.feishu.cn/wiki/BFsQwsvKCimQVZkCFGycmPxPnYc,,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源

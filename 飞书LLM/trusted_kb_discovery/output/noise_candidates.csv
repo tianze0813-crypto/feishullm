@@ -1,0 +1,24 @@
+﻿merged_score,title,batch_count,total_hit_count,category_count,query_count,avg_original_score,max_original_score,source_kinds,categories,matched_queries,url,downgrade_flags,reasons
+43.7,内部问题反馈与业务熟悉记录,7,16,8,15,9.43,16.0,wiki,IT报修 | 入职 | 发票 | 差旅 | 报销 | 考勤 | 请假与假期 | 账号权限,IT报修 | 入职 | 发票报销 | 差旅 | 差旅报销 | 差旅标准 | 年假 | 开通权限 | 报销标准 | 报销流程 | 新员工入职 | 权限审批 | 考勤异常 | 请假 | 费用报销,https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe,强噪声标题 -15 | 高重复强噪声,跨批出现 7 | 覆盖类别 8 | 累计命中 16 | 包含知识库来源 | 查询覆盖 15
+30.1,26校招话术,5,13,6,11,10.5,17.0,docs,加班与调休 | 社保公积金 | 考勤 | 薪资个税 | 请假与假期 | 餐补福利,五险一金 | 公积金 | 加班 | 加班餐 | 工资 | 打卡 | 社保 | 薪资 | 请假 | 调休 | 餐补,https://www.feishu.cn/docx/AxtydVGtXofBFPxCKJbczcbunHb,强噪声标题 -15 | 高重复强噪声,跨批出现 5 | 覆盖类别 6 | 累计命中 13 | 可读取正文 | 查询覆盖 11
+7.5,E0V 模具验收差旅日报20260207,4,4,3,4,6.5,7.0,docs,加班与调休 | 差旅 | 考勤,出差 | 加班 | 差旅 | 考勤,https://www.feishu.cn/docx/OOnsd9reUoEkV1xMRdzc6eUenCc,强噪声标题 -15 | 高重复强噪声,跨批出现 4 | 覆盖类别 3 | 累计命中 4 | 标题强信号 1 | 可读取正文
+7.5,智能纪要：股份OA使用培训 2025年4月12日,2,5,3,5,3.5,6.0,docs,IT报修 | 密码与账号 | 账号权限,IT报修 | IT自助服务 | 密码重置 | 账号开通 | 重置密码,https://www.feishu.cn/docx/CWDKd5rnGoaYBkx2qCJc6GlAnGb,正文限流 | 强噪声标题 -15,跨批出现 2 | 覆盖类别 3 | 累计命中 5 | 查询覆盖 5
+4.9,网络安全知识分享,2,2,1,2,2.5,2.5,docs,账号权限,系统权限 | 账号权限,https://www.feishu.cn/docx/M3Mnd5uYFoBV6BxHiPKcRTHonxh,正文限流 | 弱噪声标题 -6,跨批出现 2 | 覆盖类别 1 | 累计命中 2
+1.8,科技EMS自制项目周报,2,4,2,4,4.0,5.5,docs,账号权限 | 餐补福利,开通权限 | 权限开通 | 补贴 | 账号开通,https://www.feishu.cn/docx/GzYVdIltrong4WxcdL4cZAdGnYf,正文限流 | 强噪声标题 -15,跨批出现 2 | 覆盖类别 2 | 累计命中 4
+1.6,飞书文档使用入门介绍,3,3,3,3,6.97,9.9,docs,VPN与远程办公 | 账号权限 | 邮箱与应用,访问权限 | 远程办公 | 飞书应用,https://www.feishu.cn/docx/FuT9dysOQo0WEYxRyoFcpGB3nEe,强噪声标题 -15 | 高重复强噪声,跨批出现 3 | 覆盖类别 3 | 累计命中 3 | 可读取正文
+1.6,2026 工作日报,2,3,2,3,4.25,5.0,wiki,入职 | 请假与假期,入职 | 新员工入职 | 请假,https://my-ichery.feishu.cn/wiki/PtSmwFBa5iWJDgkrB5icubYznib,强噪声标题 -15,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+1.6,集成组周报,2,3,2,3,4.25,5.0,wiki,发票 | 请假与假期,休假 | 发票申请 | 电子发票,https://my-ichery.feishu.cn/wiki/WWNJwhw2BiWIgykZ2chcNy3KnDf,强噪声标题 -15,跨批出现 2 | 覆盖类别 2 | 累计命中 3 | 包含知识库来源
+1.0,月度工作计划,1,2,2,1,13.7,13.7,docs,加班与调休 | 请假与假期,调休,https://www.feishu.cn/docx/NFI0dutKVoUzuqxj75dc1OzWnFb,强噪声标题 -15,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 可读取正文 | 正文强信号 1
+0.8,前端H5专业组 工作周报,3,4,3,4,4.0,5.0,wiki,加班与调休 | 考勤 | 请假与假期,产假 | 加班申请 | 病假 | 补卡,https://my-ichery.feishu.cn/wiki/Ltp7w1o0ticSoukaX1ecFq8SnZc,强噪声标题 -15 | 高重复强噪声,跨批出现 3 | 覆盖类别 3 | 累计命中 4 | 包含知识库来源
+-0.1,📅 2026 年营销日历,1,2,2,1,12.5,12.5,docs,加班与调休 | 请假与假期,调休,https://www.feishu.cn/docx/HNbud5LURozqOXxNQPwco3SSnhh,强噪声标题 -15,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 可读取正文
+-2.1,FR小程序项目计划,1,2,2,1,11.5,11.5,wiki,加班与调休 | 请假与假期,调休,https://my-ichery.feishu.cn/wiki/Nm0WwtLMWizUSJkhkHCc0sQenZd,强噪声标题 -15,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 包含知识库来源
+-5.4,个人说明书,2,3,2,3,6.25,7.0,docs,账号权限 | 邮箱与应用,权限申请 | 系统账号 | 账号权限,https://www.feishu.cn/docx/R6MldjecAoj1IqxrsyeckLLNnke,正文限流 | 强噪声标题 -15 | 弱噪声标题 -6,跨批出现 2 | 覆盖类别 2 | 累计命中 3
+-5.4,个人说明书,2,3,2,3,6.25,7.0,docs,报销 | 账号权限,开通权限 | 报销 | 权限开通,https://www.feishu.cn/docx/Lbk7dQBC9oS3pbxKEPUc1ZomnQc,正文限流 | 强噪声标题 -15 | 弱噪声标题 -6,跨批出现 2 | 覆盖类别 2 | 累计命中 3
+-6.0,个人说明书（常见问题）,1,1,1,1,9.9,9.9,docs,账号权限,系统权限,https://www.feishu.cn/docx/ZTDjdAIoHoTcSDxy9Z6c8OUlnBf,强噪声标题 -15 | 弱噪声标题 -6,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 标题强信号 1 | 可读取正文 | 正文强信号 1
+-6.1,智慧底盘模块-晨会材料-20260226,1,2,2,2,12.5,12.5,docs,加班与调休 | 请假与假期,休假 | 加班,https://www.feishu.cn/docx/RVN7de95co23HQxN6qWc2l6nnUe,强噪声标题 -15 | 弱噪声标题 -6,跨批出现 1 | 覆盖类别 2 | 累计命中 2 | 可读取正文
+-6.7,个人说明书,3,4,2,4,6.67,7.5,docs,账号权限 | 邮箱与应用,权限申请 | 系统权限 | 系统账号 | 账号权限,https://www.feishu.cn/docx/CxQFdUewdoFMjkxN8QMcQ0Ygnhg,强噪声标题 -15 | 弱噪声标题 -6 | 高重复强噪声,跨批出现 3 | 覆盖类别 2 | 累计命中 4 | 可读取正文
+-6.8,高站稳- 工作周报,1,1,1,1,3.5,3.5,wiki,考勤,打卡,https://my-ichery.feishu.cn/wiki/HuNuwpM7LiQRiOkS7RTczHA9nKc,强噪声标题 -15,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+-6.8,周报-钱雷-20251017,1,1,1,1,3.5,3.5,wiki,请假与假期,年假,https://my-ichery.feishu.cn/wiki/NZuJwmdzYiwK6akEQa0c6Wo5nmh,强噪声标题 -15,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+-6.8,周报-钱雷-20260108,1,1,1,1,3.5,3.5,wiki,请假与假期,产假,https://my-ichery.feishu.cn/wiki/JXynwIvo8iAhqFkdzCAcDLS0nod,强噪声标题 -15,跨批出现 1 | 覆盖类别 1 | 累计命中 1 | 包含知识库来源
+-13.8,个人说明书,1,1,1,1,5.5,5.5,docs,加班与调休,加班,https://www.feishu.cn/docx/N1UkdS1e4o2POdxGoYicpnornDs,正文限流 | 强噪声标题 -15 | 弱噪声标题 -6,跨批出现 1 | 覆盖类别 1 | 累计命中 1
+-13.8,Mの个人说明书,1,1,1,1,5.5,5.5,docs,入职,入职,https://www.feishu.cn/docx/Fx74d8iEooa7Qax7pkacMudLnLd,正文限流 | 强噪声标题 -15 | 弱噪声标题 -6,跨批出现 1 | 覆盖类别 1 | 累计命中 1

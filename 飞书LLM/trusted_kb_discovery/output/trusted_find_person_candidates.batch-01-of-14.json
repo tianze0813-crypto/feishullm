@@ -1,0 +1,2294 @@
+[
+  {
+    "title": "信息化指引手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "url": "https://www.feishu.cn/docx/Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "owner_id": "ou_973f8643b939fd430af1a207ec10f656",
+    "hit_count": 4,
+    "categories": [
+      "IT报修",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务",
+      "权限申请",
+      "电脑维修"
+    ],
+    "score": 27.7,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 4",
+      "标题强信号 2",
+      "可读取正文",
+      "正文强信号 6"
+    ],
+    "raw_status": "",
+    "raw_preview": "信息化指引手册\n\n⭐电脑板块⭐\n国际业务事业群（非海实非墨甲）在OJ二楼库房领取，联系@肖宏星@赵志鹏。\n入职需领取(💻电脑，🖱鼠标，🎒背包，🔌充电器) 库房位置：国际2号库房位置：国际园区OJ小白楼2楼📍库房开放时间：周一至周五9：00~17：00，领取并进行领用登记表登记。\n离职需退还(💻电脑，🖱鼠标，🎒背包，🔌充电器) 到库房。离职电脑具体流程：①先将电脑还到OJ库房，②还完后去国际主楼CEO一楼综合行政找@王圣智签字即可。\n\n\nimage.png\n\n\n46a39e4b-ac0c-4253-ba82-109b19d10ce4.jpeg\n\n国际业务事业群（海实）在国际主楼4楼407办公室领取，联系@徐磊\n墨甲智创在墨甲一楼领取，联系@许明昇或者@陈雷\n电脑问题可IT自助报修或直接拨打5926666转人工，进行远程服务或者联系工程师上门\nimage\n\n 新员工电脑的chery域账户密码登录\n新员工电脑入手后,通过飞书工作台\"IT服务\"栏目(如下图   应用列表往右滑动可见）,统一身份账户密码自助\n图片.png\n\n\n图片.png\n\na)打开后,先输入飞书手机号\nb)再通过,短信验证方式…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "电脑维修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "EAM系统使用常见问题解决手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "url": "https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "owner_id": "ou_4fb34393c2f6da52f8d5127806f5cf00",
+    "hit_count": 5,
+    "categories": [
+      "IT报修",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT故障报修",
+      "电脑维修",
+      "设备故障",
+      "账号权限"
+    ],
+    "score": 25.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 5",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 5"
+    ],
+    "raw_status": "",
+    "raw_preview": "EAM系统使用常见问题解决手册\n概述：\n目的：\n         本文档用于解决用户在EAM系统使用过程中，因操作不熟练、网络或浏览器设置等常见问题的自助排查。如文档内容无法支持问题解决，可采用以下三种方式提交海行云运维解决。\n运维解决路径：\n报修路径：iChery工作台——IT自助报修\nimage.png\n\n账号申请、数据修改、新增功能 路径：OA工作台——信息化申请\n（需求类目选择“运维_数据处理\"，业务类型选择\"EAM\"其他必填项填写一下）\nimage.png\n\n1701848216036.jpg\n\nimage.png\n\nimg_v3_02ap_b01c95b3-5865-4f7f-832c-4918e9766dbg.jpg\n\n新增需求：奇瑞BOSS平台——我得需求——提需求\n奇瑞BOSS平台（ https://boss.mychery.com/Dmd/Regist/Index），根据具体需求类型提出相关改进需求\nimage.png\n\n           \nimage.png\n\n操作手册&培训课件：\n维修专业保全-维修工程师/维修工操作课件：\n      用作指导：\n     …",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "电脑维修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT故障报修",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "信息化指南",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DeqcdXPnYoKorCx2F9FcqNmWnyc",
+    "url": "https://www.feishu.cn/docx/DeqcdXPnYoKorCx2F9FcqNmWnyc",
+    "owner_id": "ou_a8b50a9636ba2442e752e288365c6b5a",
+    "hit_count": 2,
+    "categories": [
+      "IT报修",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "权限申请"
+    ],
+    "score": 18.6,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "信息化指南\n1、电脑领取、置换、借用\n1.1 电脑领取及登录：\nA:入职新同事联系周祥林（20221479）提供姓名、工号，领取电脑、第二天可以领取已入域电脑。\n      用户名：域账号（工号）\n      初始密码为：111@chery\n     B: #紫云英等入职未配置电脑需申请的（二线或工段长以上人员配置），走控股OA-公文审批类-【同质】内部文件签发申请，经部门长-周祥林-人力部长王春-数字化部长陈刚审批。\n      需填写 ：申请人姓名、工号、岗位、联系电话 （岗位必须写明，工作职责，否则会被退回）\nimage.png\n\n1.2 电脑置换\n      需填写附件1：电脑置换申请表，签字到部门长后，发周祥林（20221479）确认后安排置换，研发部门电脑使用以工作站为主，其他部门以笔记本为主。\n1.3 电脑借用\n     因工作原因需借用电脑，需填写附件2：电脑借用申请表，借用人签字到部门长后，发周祥林（20221479）确认后安排借用。\n2、打印机\n2.1 打印机安装\n日照基地采用共享打印，找周祥林（20221479）安装打印程序\n      使用步骤参考共享打印操作手…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "补卡、请假申请流程及注意事项",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "FP3zdceUio1HQAxSYqqcsYcTnXd",
+    "url": "https://www.feishu.cn/docx/FP3zdceUio1HQAxSYqqcsYcTnXd",
+    "owner_id": "ou_cfe48f76baa700f0d2f5d4a56cd88b18",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 15.1,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "补卡、请假申请流程及注意事项\n补卡、请假申请流程及注意事项\n一、目的与要求\n1.1目的\n为了规范员工补卡、请假等申请业务，进一步规范考勤管理，并减少补卡申请、请假申请等申请错误率，提高审批效率，特编写本手册。\n1.2要求\n1.2.1 员工：\n1）当天缺卡当天补、先请假后离岗。\n2）每个工作日要求每位员工基础打卡2次，即上班打卡1次，下班打卡1次。\n3）尽量做到当天缺卡当天补，以免影响考勤数据生成。每月7日前必须补好上月的异常卡，以免影响工资核算和发放。\n4）补卡标题：目标补卡日期+考勤类别；请假标题：请假日期+请假天数。（详见第四、第五章）\n1.2.2 各审批人：\n1）及时审批补卡、请假申请，以免影响员工补卡、请假进度和考勤数据生成。\n\n二、适用范围\n\n本规范适用于墨甲所有员工电脑端、移动端补卡和请假申请事务。\n\n三、补卡申请操作流程及注意事项\n\n3.1补卡申请操作流程\n\n飞书移动端/电脑端：工作台—移动办公—新建流程—全部流程—补卡申请流程（股份）\n\n\nimage2.png\n\n\nimage3.png\n\n\nimage4.png\n\n\n3.2补卡申请注意事项\n\n\n！补卡标题：目标补卡日期+…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "登录账号、密码、权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XX3gdmV0Ro5AybxY1SGcw4BInvc",
+    "url": "https://my-ichery.feishu.cn/wiki/SKhdweH5Ai356DkojJycVDsdnhe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "提交工单",
+      "账号权限"
+    ],
+    "score": 14.0,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "HR常见问题及解决方案总览",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "B0zBdIpZuo2M3nxDYbtcwAcLnze",
+    "url": "https://www.feishu.cn/docx/B0zBdIpZuo2M3nxDYbtcwAcLnze",
+    "owner_id": "ou_67d4f5c0e97bef2298e8a6cf5dd5b5ac",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 13.8,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "可读取正文",
+      "正文强信号 4"
+    ],
+    "raw_status": "",
+    "raw_preview": "HR常见问题及解决方案总览\n入职指引手册：【奇瑞-非工人】入职须知20230919（员工导视指引）.pdf\n常见相关事宜\n入职体检报销：\n1.社招入职员工：入职后到国际办公楼412国际HR办公室提交纸质发票给招聘BP\n2.校招入职员工：入职后到国际办公楼412国际HR办公室提交纸质发票给@杨云茜\nPS：体检费用报销标准为85￥，报销周期无固定，需耐心等待！！！\n新入职领取电脑、打印机配置、IT自助报修、人脸识别门禁、会议室预约等请参考：信息化指引手册\n请假&补卡：考勤-To各位辛苦的打工人。\n所有人员，从上岗当天的下班卡开始履行打卡制度；如无飞书打卡，必须要进行飞书补卡！！\n需要操作补卡的人员一定不要打卡  打卡后是没办法用补卡覆盖记录的，那么就只能走调休流程了哈\n入职当月无调休时间，入职次月月初考勤组会维护第一个月的加班时间，后面才可使用调休；\n请假前请告知部门领导、得到同意后再发送线上OA请假流程；\n标题：姓名+请假时间(****年**月**日)+年假/调休/病假/产假/事假；\n               PC端操作流程👇👇👇：                          …",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "新人入职指南",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Ah7xdkG6To9yL2xVuwBcUhjfnsg",
+    "url": "https://my-ichery.feishu.cn/wiki/FvbDwS3KTiuH1lkyCewcpQWDnJb",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT自助服务",
+      "服务台"
+    ],
+    "score": 13.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      },
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "各系统账号、权限申请(注销/变更)流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Xd6EdbldCoD2eyx9kdRcUVmvnWd",
+    "url": "https://my-ichery.feishu.cn/wiki/LBdywjN2Mi4Zxikr5KdcAyaln2g",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请",
+      "账号权限"
+    ],
+    "score": 13.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "IT自助报修后如何自行关闭工单",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OwfFdhwmHoP8ecxuwTCcgJLknqe",
+    "url": "https://my-ichery.feishu.cn/wiki/BXEPwPGVEiidrqk68ducBswXnne",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "变更流程业务和IT支持人员(20)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "EPCCd4EpfohZ2OxrDbPcvB7gnoe",
+    "url": "https://my-ichery.feishu.cn/wiki/Z10Uwmme1ivAcMk53VbcsgmnnUv",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "IOT 标准、规范、流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "GMTCdBAlmoZ9vOx4ChCcpfxIncb",
+    "url": "https://my-ichery.feishu.cn/wiki/HcRlwOqdhihztSk0WdocRjw2nVD",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "CJLR安防业务说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "WREtdAJikoymj9xXxUQcbl2Hngr",
+    "url": "https://www.feishu.cn/docx/WREtdAJikoymj9xXxUQcbl2Hngr",
+    "owner_id": "ou_0da703306e853f5cb44d1c72a63a7bef",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 11.1,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "CJLR安防业务说明书\n人员、车辆、物品进出厂\n外部人员入厂\n查看“CJLR外部人员入厂流程”，流程内可以查看不同业务需求的申请入厂方式及申请流程\n\n涉及项目期的FR事业部、上海研究院的申请人员申请访客入厂的路径见“外部人员来访常熟基地申请路径”，\n如申请人需开通常熟门禁权限，可查看“2.2.1.来访申请流程内申请\"说明内容\n参观，\n联系运营中心团队申请\n外部来访\n适用；外部商业活动、VIP来访、普通来访、特殊来访、安全培训\n申请路径；CJLR员工登录企微 →工作台   →审批  →健康安全安防服务  →来访申请→选择对应的“来访类别”，选择相关人员批准\n\n\n同一时间、同一场所进行20人以上的来访活动提前一日将信息报备CJLR安防中心包含以下信息\n（活动主题；参与人员信息，单位/部门、姓名、联系方式；开始、截止时间；活动位置；活动对接人员）\n外部商业活动；适用于工会、IT、财务、HR等部门经过审批的指定场所，申请人员应做好活动秩序管理和引导，切勿过于喧哗。\nVIP来访；适用于高层人员、车辆来访常熟工厂\n普通来访；为各车间门厅及生产办公中心（不含车间内）非施工、作业的拜访、\n特殊来访；为…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "墨甲临时采购管理办法",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Br5HdgjNSoD6hOxa9lJch5oOnNb",
+    "url": "https://www.feishu.cn/docx/Br5HdgjNSoD6hOxa9lJch5oOnNb",
+    "owner_id": "ou_2f8ad13bd5945ab1401b77417627616e",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 11.1,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "墨甲临时采购管理办法\n\n\n\n\n\n\n\n\n\n\n\n安徽墨甲智创机器人科技有限公司\n临时采购管理办法\n\n目  录\n1.总则\n2.适用范围及分类\n3.采购流程\n4.供应商管理\n5.监督与罚则\n6.附则\n7.附件\n8.记录\n\n\n\n\n\n\n\n出  自\n\n墨甲采购部\n\n编  号\n\n\n\n生效日期\n\n2025-3-1\n\n版  次\n\nV1\n\n\n\n\n\n安徽墨甲智创机器人科技有限公司\n\n临时采购管理办法\n\n\n\n\n\n编       制：\n\n\n审       核：\n\n\n部 门 批 准：\n\n\n一.总则\n第一条 为规范墨甲智创临时采购行为，提高采购效率，控制成本，防范风险，特制定本办法。  \n第二条 本办法适用于未列入年度采购计划或预算，因临时需求产生的物资、服务或设备的紧急采购。\n第三条 管理原则：  \n1. 必要性原则：仅限确需且无法通过库存调拨解决的紧急需求。  \n2. 效率优先原则：简化流程，快速响应业务需求。  \n3. 合规透明原则：确保采购过程公开、公平，避免违规操作。  \n二.适用范围及分类\n第一条 临时采购情形包括：  \n1. 突发性设备故障需紧急维修或更换；  \n2. 项目临时新增需求；  \n3. 其他…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "02.售后服务管理基准",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "OwoedEF1OoNfOPxQvNRcHPa5nGw",
+    "url": "https://www.feishu.cn/docx/OwoedEF1OoNfOPxQvNRcHPa5nGw",
+    "owner_id": "ou_eccef56c27d1439900f7c43f5401407f",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 11.1,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "02.售后服务管理基准\n修改履历\n\n\n修    改    履    历\n\n\n\n\n\n\n\n\n\n\n\n序号\n\n更改日期\n\n修订文件名称\n\n修订人\n\n修订内容说明\n\n版本\n\n1\n\n2025.07.02\n\n《售后服务管理基准》\n\n李阳\n\n新建\n\nA/0\n\n2\n\n\n\n\n\n\n\n\n\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n4\n\n \n\n \n\n \n\n\n\n \n\n5\n\n \n\n \n\n \n\n \n\n\n1 目的\n充分了解顾客的要求并转化为对我公司服务的要求，确保服务工作的制度化、规范化实施，确保客户满意。\n2 使用范围\n适用于客户采购我公司产品（机器人、机器狗）、服务（租赁等）后的售后服务要求，包括产品的现场交付、故障维修、备件销售等服务。\n3 术语\n无\n4 职责\n\n5 售后服务工作流程\n5.1 服务请求响应\n5.1.1 介绍\n售后技术组通过不同的渠道接收到客户的服务请求时，按照客户的服务类型进行服务对接或转交其他部门响应。\n5.1.2 工作流程\n\n5.1.3 工作指导\n（1）服务请求的渠道主要包括：售后服务邮箱、400服务电话、现场服务人员电话/微信、销售订单交付需求传递、批量问题整改通知等。\n售后服务邮箱为：support@…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "飞书如何IT自助报修",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "DQiRdSZgQoXAQ5x1MtfcWe0sn2f",
+    "url": "https://my-ichery.feishu.cn/wiki/VPVPwxV2ci54odkJslNcLiNvnVh",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "AI数字员工创建手册",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "SK0ddPigBozGPBxI61icKmupnrb",
+    "url": "https://my-ichery.feishu.cn/wiki/XCBgwzYntiYl5bkcAt0ciX53ndg",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请应用系统的账号和权限？(例：OA、合同系统、SAP、MES、PQCP、SRM...等)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "IO09d8A8wozRh1xHLEKcBZFjntc",
+    "url": "https://my-ichery.feishu.cn/wiki/HWepwS7tciM6X5kO7alcgGMunah",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请",
+      "账号权限"
+    ],
+    "score": 10.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "星海大数据平台账号权限申请",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "url": "https://www.feishu.cn/docx/QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "owner_id": "ou_0800725596df725600ce6e2f513a2161",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请",
+      "账号权限"
+    ],
+    "score": 9.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "ABOM工程师作业指导手册",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "FT3tdVW4joZNuqxTmtScAuyjnAc",
+    "url": "https://my-ichery.feishu.cn/wiki/RRCPwAILQiwH6ZkqWuAc6Afhnmh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "咨询故障报单流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "MjqUdcV8moYwCTxq9HCcmeMFnFc",
+    "url": "https://my-ichery.feishu.cn/wiki/LEgFwqEgQi12isk07RbcDZNCnLd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "服务台"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "7.点击管理 找不到提交到工作流程按钮.docx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "H6SIbF0JdoZN5DxKTQbca2G6nVd",
+    "url": "https://my-ichery.feishu.cn/wiki/J0IUwKKAvihdLskShc9cbVynnvY",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "差旅相关问题",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CAJed7g70oibJexWXbYcEPRhnvd",
+    "url": "https://my-ichery.feishu.cn/wiki/UgrIww0E4iS8TEk0LCsc5PPPnKh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "审批流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WrsmdC6esoMhi9xPtQSc1PUwnMR",
+    "url": "https://my-ichery.feishu.cn/wiki/YzwbwkiiviP0ZmkasEJcJgEHn4f",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1.2 项目权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Z1zEdSEIboQmCKxtCiwcZoEZnQf",
+    "url": "https://my-ichery.feishu.cn/wiki/RLhvwCwtQirXzgkZ2wwceuOFnfb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "特殊网络权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XqBAd9EpdoMTMdxch5xcVztin9e",
+    "url": "https://my-ichery.feishu.cn/wiki/CI6CwEp7eiYwdCka4cPcMrVAnWc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "UnvpdJP1RoWSNtxJcwxcpeoenqe",
+    "url": "https://my-ichery.feishu.cn/wiki/Xk94wZxgSi8YSukx09VcvLzYnfh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请USB权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "BWycdSq0WoTflpxcw5McuhmAnhl",
+    "url": "https://my-ichery.feishu.cn/wiki/PM0pwgEGLil7zZkiNO4cHCzBnlg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请本地管理员权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "HsZHdQnURoBfivxVitAcTnOonJg",
+    "url": "https://my-ichery.feishu.cn/wiki/FlLbwD2byijRpykXriwcpiCnnQd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请国际网络chery-international访问权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "W0DhdVi78otbymxOUMEccIA4nOb",
+    "url": "https://my-ichery.feishu.cn/wiki/E8jlwNq6IihRW3kRivNcky1dnGE",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1 TC账号&项目权限管理",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "HgKzdP1d8o0MmmxFD0TcBaEOnGg",
+    "url": "https://my-ichery.feishu.cn/wiki/HfZGwm6BnipPPGkTkzpc69Swnog",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "2.0账号申请流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WQFudH78do9OtTxW6l2cWAfpnWe",
+    "url": "https://my-ichery.feishu.cn/wiki/GTAuwaVS8iIERbkiqd6c8yJXnje",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "03.售后备件管理基准",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CxNHd4i1RoQVqyxtoLIct77pnbK",
+    "url": "https://www.feishu.cn/docx/CxNHd4i1RoQVqyxtoLIct77pnbK",
+    "owner_id": "ou_eccef56c27d1439900f7c43f5401407f",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 8.7,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "03.售后备件管理基准\n修改履历\n\n\n修    改    履    历\n\n\n\n\n\n\n\n\n\n\n\n序号\n\n更改日期\n\n修订文件名称\n\n修订人\n\n修订内容说明\n\n版本\n\n1\n\n2025.07.14\n\n《售后备件管理基准》\n\n李阳\n\n新建\n\nA/0\n\n2\n\n\n\n\n\n\n\n\n\n\n\n3\n\n\n\n\n\n\n\n\n\n\n\n4\n\n \n\n \n\n \n\n\n\n \n\n5\n\n \n\n \n\n \n\n \n\n\n1 目的\n为规范公司机器人及机器狗产品的售后备件管理，确保备件供应及时、高效，保障客户设备快速恢复运行，同时满足合规备件销售需求，特制定本基准。\n核心目标：​​\n提升维修效率​：缩短备件领用、更换周期，减少客户设备停机时间。\n优化库存管理​：建立科学的安全库存机制，避免缺货或积压。\n保障备件质量​：确保备件从入库到使用的全流程可追溯、可管控。\n支持合规销售​：规范有偿备件销售流程，符合财务及税务要求。\n2 使用范围\n涵盖本部及海外备件仓储全流程管理。\n适用对象​：公司本部及海外售后备件仓库、服务团队、合作供应商。\n管理范围​：涵盖备件 采购、入库、领用、发运、返修、报废 全生命周期管理。\n不适用范围​：研发测试用备件、生产物料。\n…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞能源管理-预约出行产品需求文档_5.1架构_V0.1",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "NLYDdnyInooI4qx8Uzwc96pfnkc",
+    "url": "https://www.feishu.cn/docx/NLYDdnyInooI4qx8Uzwc96pfnkc",
+    "owner_id": "ou_c71a80792ead4cbf55f0f1cd7b17d3e6",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 8.7,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "奇瑞能源管理-预约出行产品需求文档_5.1架构_V0.1\nChange log\n注意:\n1.版本新增/修改文档中为黄色标识，例如：我是新增/修改内容\n2.版本删除文档中为红色删除线，例如：我是删除内容\n3.每个版本的修改、新增、删除标识仅停留在当前版本，版本更新后将去除\n\n\n     时间\n\n版本号\n\n变更内容\n\n作者\n\n备注\n\n2025/07/14\n\nV0.1\n\n创建文档\n\n     陈凡\n\n\n\n\n\n\n\n\n\n\n\n\nTeam Members\n\n\n角色\n\n\n\n                 负责人\n\n\n\n产品 PO\n\n\n\n\n\n\n\n系统 FO\n\n\n\n\n\n\n\nUX/UI\n\n\n\n\n\n\n\n    \n    研发\n\n\nAndroid\n\n\n\n\n\n\n\nQNX\n\n\n\n\n\n\n\nAlgorithm\n\n\n\n\n\n              质量\n\n\n\n\n\n\n\n    DRE/硬件开发\n\n\n\n\n\n\n\n          集成测试\n\n\n\n\n\n\n\n         供应商产品研发接口\n\n\n\n\n\n\n\n           ....\n\n\n\n\n\n\n评审会议纪要及录屏\n\n\n序号\n\n评审记录\n\n处理分析\n\nPRD修改状态\n\n…",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "如何申请新电脑？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "GtmOd9TOkoQkCExPGSFcetSqn0f",
+    "url": "https://my-ichery.feishu.cn/wiki/Gn4MwaRHNipTAukdCSxcWfK3nIf",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "开阳-行政服务",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CraIdCJGaowPHJxfFxDcTfgLnOf",
+    "url": "https://my-ichery.feishu.cn/wiki/NSbGwd0jCi4cdakMFwPcMG7cnme",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT故障报修",
+      "IT自助服务"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT故障报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "iCAR 行政后勤服务手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "H75vdwtHIo9u6px1gHtcXf2LnGh",
+    "url": "https://www.feishu.cn/docx/H75vdwtHIo9u6px1gHtcXf2LnGh",
+    "owner_id": "ou_80df1c156c02c77df5bb2b5435490396",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "ODIN权限管理功能相关数据表统计",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "EpdCdAFndoMl7fxgiw8c3QwDnqg",
+    "url": "https://www.feishu.cn/docx/EpdCdAFndoMl7fxgiw8c3QwDnqg",
+    "owner_id": "ou_b274988b5de9fa1d75bd9e10f930e1e4",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "智界数据管理业务指导手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "TBKhd0mV4o03UDxIXQrc3UHZnlc",
+    "url": "https://www.feishu.cn/docx/TBKhd0mV4o03UDxIXQrc3UHZnlc",
+    "owner_id": "ou_a3303962a3635c89b2a87121758a37a8",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "个人说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CxQFdUewdoFMjkxN8QMcQ0Ygnhg",
+    "url": "https://www.feishu.cn/docx/CxQFdUewdoFMjkxN8QMcQ0Ygnhg",
+    "owner_id": "ou_13b118d9c325bc9d985205c38feef94a",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请",
+      "账号权限"
+    ],
+    "score": 7.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "个人说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "R6MldjecAoj1IqxrsyeckLLNnke",
+    "url": "https://www.feishu.cn/docx/R6MldjecAoj1IqxrsyeckLLNnke",
+    "owner_id": "ou_e15f4e55136792c7be6eeeedc28f8108",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请",
+      "账号权限"
+    ],
+    "score": 7.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "内部问题反馈与业务熟悉记录",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "N57bbH5TraeptPsmA9jcaXzznqg",
+    "url": "https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何重置/解锁SAP密码",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XQCedpzNyoZD83xI8E6cgMaVnmb",
+    "url": "https://my-ichery.feishu.cn/wiki/NULzwi5q5iYVbykJKpRcd3jsnYb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "有线网无法连接？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "KzzZdD7zQoDXB1xzsiWckpt8nLg",
+    "url": "https://my-ichery.feishu.cn/wiki/T94IwEq83ifNtRkyLJAcLFMXnbc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "2026年费用预提表-威蓝动力",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "Cf7GsyJgGhXBJwt4H1icJpdCnMd",
+    "url": "https://my-ichery.feishu.cn/wiki/HXdNw8gx5iqvozkNRgOcnhpjnfe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "电脑维修"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "电脑维修",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "V2.0",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "FFFQsOIzXhxmD5t8rwyc5PG7nUh",
+    "url": "https://my-ichery.feishu.cn/wiki/Jm6qwH4SHih1mmk9GK6c1jfgnrd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "常熟工厂停线记录",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "TCdLsTsfJhpN1JtkvvzcV1Prn6b",
+    "url": "https://my-ichery.feishu.cn/wiki/B2nkwep5Ui2YdjkA5bOci8tGnCh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "🔥投稿加热",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "S6vjbQ49ga4nnPsOmhUcR1lJnMe",
+    "url": "https://my-ichery.feishu.cn/wiki/WMwWwPRYuis5BPkeRtacsZ15nvh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "Harmony面试题库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "T71tdSDJ3oYgQrxsiY9cfL4JnMg",
+    "url": "https://my-ichery.feishu.cn/wiki/AogZwfVbbi3yuqkSJjpcVvJ0nQh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "IT自助知识库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "QzX9dd95iofGbsxqKQBcBY47nFg",
+    "url": "https://my-ichery.feishu.cn/wiki/BFsQwsvKCimQVZkCFGycmPxPnYc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT自助服务"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "IT自助知识库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "EVg2dSzxhohOKtxqADecU25snhh",
+    "url": "https://my-ichery.feishu.cn/wiki/ITVzwSTJPi3lJDkq9zucTtBQngc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT自助服务"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "Polarion(ALM)系统自助修改账户密码(非忘记)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "AoUIdTRVtoBqhbxXqrVcK18Enhh",
+    "url": "https://my-ichery.feishu.cn/wiki/NPrswN3n1ifGtYkcoTwcU61Wnlf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT自助服务"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "ITR平台 系统架构(4A阶段)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CDVkdJOhno4jdAxiK0GcwvRInTf",
+    "url": "https://my-ichery.feishu.cn/wiki/RlQ0wBaxMiyYZwk0YOBcJOx6nae",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "服务台"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "故障报错处理文档",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XWnRdEOIZor1JfxFkKrcm56EnEf",
+    "url": "https://my-ichery.feishu.cn/wiki/KKCvw2VuCiJ2zokxfYtckfTFnwh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "服务台"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "提交EWO表单",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "P6NVdnsTtoOMexxBHDHcn97Ynke",
+    "url": "https://my-ichery.feishu.cn/wiki/RvWtwCmybi3b7ikXgfZctemGnVh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "配件提交订单，资金类型报错",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "B4pHdeLdgoy4ZExkrRfcny7Nn4f",
+    "url": "https://my-ichery.feishu.cn/wiki/GZH8wbfiMiD1fOklz95ca1T5ngd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "提交变更组至CGBOM2.0",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "EIVCdwMuyoQfC2xzMgvcgb8Bnkd",
+    "url": "https://my-ichery.feishu.cn/wiki/IT2awyoHeiOmY8kPFVXcu7Alnbb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "DDMS详细设计-附件同表单一同提交",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "FsVVd3iFWo2BZgxGoSZcnTCpnNh",
+    "url": "https://my-ichery.feishu.cn/wiki/DWsTwMhMXimWJOkvFFVcOMYPnRc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "提交工单"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "提交工单",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "账号申请管理",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "UxhnbQ3U1arKmCsnocPcZ9I9njM",
+    "url": "https://my-ichery.feishu.cn/wiki/J4SrwNHwwiiCOLkO8PRcNYZRnm4",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "资源账号（共享）",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Mcpqdtu6Lol2LYxsCgBc5TFrncU",
+    "url": "https://my-ichery.feishu.cn/wiki/QNZQwMIp5iioDmkuj15cVFZQnPG",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1.1 TC账号申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "KVDYdZGvyoyt3Ex9r4cchXS6nWf",
+    "url": "https://my-ichery.feishu.cn/wiki/PO4swg0mEim8XkkGiCgcVknhnmh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "OO的说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "url": "https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "owner_id": "ou_ee2adb57863f1be9888da92d351f0af8",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "CRM系统业务沟通会",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "O7wTdgHKbo56ZxxnL5UcxlZfn7f",
+    "url": "https://www.feishu.cn/docx/O7wTdgHKbo56ZxxnL5UcxlZfn7f",
+    "owner_id": "ou_d215ebbdee699580652d547c13382fd5",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞座舱DVR产品需求文档_V1.0.0h_E0V_0421",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CpHddc5MOol2XHxarB8cohEVnKd",
+    "url": "https://www.feishu.cn/docx/CpHddc5MOol2XHxarB8cohEVnKd",
+    "owner_id": "ou_f6a0026eb98536351a8ed402d842eed7",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "设备故障"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "设备故障",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "墨甲机器人社媒平台",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "X5yHd6uBzoHcUYxRtVhc3PRFnge",
+    "url": "https://www.feishu.cn/docx/X5yHd6uBzoHcUYxRtVhc3PRFnge",
+    "owner_id": "ou_eccef56c27d1439900f7c43f5401407f",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "服务台"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "数字化项目宣传模板+月宣传需求文档",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "J2ypdA8CvouTjyx8E4Yc94Oongh",
+    "url": "https://www.feishu.cn/docx/J2ypdA8CvouTjyx8E4Yc94Oongh",
+    "owner_id": "ou_3389264e90d73f9607ced7814ccd376c",
+    "hit_count": 1,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "服务台"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "服务台",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "CGBOM1.0 申请说明",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "TqdNdqA0fo3kc4x9CurcdMwlnJd",
+    "url": "https://www.feishu.cn/docx/TqdNdqA0fo3kc4x9CurcdMwlnJd",
+    "owner_id": "ou_239315a9a1f3d0def794f342c671a604",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "飞书应用上架说明",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Odx8dEqC0oEsD7xl9JacT71an4c",
+    "url": "https://www.feishu.cn/docx/Odx8dEqC0oEsD7xl9JacT71an4c",
+    "owner_id": "ou_ff2e8f26448ffeb79430b948229bef23",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "海行云工作日常",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "R6QudejIoorfKTxM46FcAf5Cneb",
+    "url": "https://www.feishu.cn/docx/R6QudejIoorfKTxM46FcAf5Cneb",
+    "owner_id": "ou_65c35f32f8f6ddf8ed863aaeb3dbae51",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "集团培训签到与评估码",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "YmhfdbfDYo6t1ex50S5cwgVCn6p",
+    "url": "https://www.feishu.cn/docx/YmhfdbfDYo6t1ex50S5cwgVCn6p",
+    "owner_id": "ou_af32ef20d52ed87566e39543ca9ff0ff",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限申请"
+    ],
+    "score": 2.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "网络安全知识分享",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "M3Mnd5uYFoBV6BxHiPKcRTHonxh",
+    "url": "https://www.feishu.cn/docx/M3Mnd5uYFoBV6BxHiPKcRTHonxh",
+    "owner_id": "ou_3556bfa30f14c9c657f768948fab6a04",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号权限"
+    ],
+    "score": 2.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "智能纪要：股份OA使用培训 2025年4月12日",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CWDKd5rnGoaYBkx2qCJc6GlAnGb",
+    "url": "https://www.feishu.cn/docx/CWDKd5rnGoaYBkx2qCJc6GlAnGb",
+    "owner_id": "ou_973f8643b939fd430af1a207ec10f656",
+    "hit_count": 2,
+    "categories": [
+      "IT报修"
+    ],
+    "matched_queries": [
+      "IT报修",
+      "IT自助服务"
+    ],
+    "score": 1.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题疑似噪声 -2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "IT报修",
+        "query": "IT报修",
+        "source": "docs"
+      },
+      {
+        "category": "IT报修",
+        "query": "IT自助服务",
+        "source": "docs"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+﻿score,title,source_kind,docs_type,hit_count,category_count,categories,matched_queries,url,raw_status,reasons
+20.3,HR常见问题及解决方案总览,docs,docx,4,2,考勤 | 邮箱与应用,打卡 | 考勤 | 补卡 | 飞书应用,https://www.feishu.cn/docx/B0zBdIpZuo2M3nxDYbtcwAcLnze,,覆盖类别 2 | 命中次数 4 | 可读取正文 | 正文强信号 4
+16.7,速通捷途研发教程（限时免费版）,docs,docx,4,2,考勤 | 邮箱与应用,考勤 | 考勤异常 | 补卡 | 飞书应用,https://www.feishu.cn/docx/HCitdop5RoAoQKxdKZvcBhw7n6f,,覆盖类别 2 | 命中次数 4 | 可读取正文 | 正文强信号 1
+16.6,补卡、请假申请流程及注意事项,docs,docx,3,1,考勤,打卡 | 考勤 | 补卡,https://www.feishu.cn/docx/FP3zdceUio1HQAxSYqqcsYcTnXd,,覆盖类别 1 | 命中次数 3 | 标题强信号 1 | 可读取正文 | 正文强信号 3
+16.0,EAM系统使用常见问题解决手册,docs,docx,1,1,考勤,考勤,https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 可读取正文 | 正文强信号 5
+13.7,《墨甲机器人出国管理规定》2024版(1),docs,docx,2,2,考勤 | 邮箱与应用,MFA | 考勤,https://www.feishu.cn/docx/YGkbdWbBno7ufjxg21RcgiBpnhc,,覆盖类别 2 | 命中次数 2 | 可读取正文 | 正文强信号 1
+11.5,各系统账号、权限申请(注销/变更)流程,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/LBdywjN2Mi4Zxikr5KdcAyaln2g,,覆盖类别 1 | 命中次数 1 | 标题强信号 2 | 知识库来源
+10.5,A04.SAP HR考勤管理操作概述,wiki,8,2,1,考勤,打卡 | 考勤,https://my-ichery.feishu.cn/wiki/RXjVwwnFFiuQWtkPRtHcpogxntc,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 知识库来源
+10.5,驻场外协管理规范(弃),wiki,8,2,1,考勤,打卡 | 漏打卡,https://my-ichery.feishu.cn/wiki/C7DIwak8EifVCZkibKMckzFlnye,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 知识库来源
+10.0,部门规章制度,docs,docx,1,1,考勤,考勤,https://www.feishu.cn/docx/C7mWdnkpuo7x3nxyqdicDvt5nFg,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 可读取正文
+9.5,CGDES常见问题处理手册,docs,docx,2,1,邮箱与应用,单点登录 | 系统账号,https://www.feishu.cn/docx/LbWtdvmV3oPQpYxem6HcfpQGnEe,rate_limited,覆盖类别 1 | 命中次数 2 | 标题强信号 1
+9.0,飞书应用FAQ,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/DnazwR9vgiJhZckJyT7ccdLmnbe,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,赛道二参赛指南：场景创新·驱动业务（团队赛）,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/MHBTwBsZ8iNVAVk0IqhcfiXXnTg,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,IOT系统账号申请指南,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/Ez71wyaYLiODLJkCkricr31Mnwc,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,零件号申请流程（新号）系统操作,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/FMtPw7a6giIqbdk7UlocBwKCnC2,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,单点登录配置场景&流程,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/NY3gwV3NaiAb56k5iYScO4IBnRf,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,流程图设计-对接单点登录,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/IE8Xw9dNbifW2tk6zfIcNht6nhb,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,差旅申请单,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/Ln8hwTXnxiVygqknLs0c24fCnOc,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,SSO登录几种场景流程图,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/VA2QwHCShi2TCBkpEvYckJlFnVe,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,sso代理IAM授权流程图,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/JXhgwjhtiiPzO4kmrutc7Anenne,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,DevOps工作指引,wiki,8,1,1,邮箱与应用,MFA,https://my-ichery.feishu.cn/wiki/AYbpwQBVMiadLakJ3SHc9TYRnkf,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,考勤系统,wiki,2,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/OUiLwMRsUilhf4kdlYbcttpwnhg,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,2025考勤,wiki,8,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/DVIxwlzWRiWt70kcSNocQzuAnud,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,2025年06月外包供应商考勤表-星途项目,wiki,2,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/BeNdwimBniUFowk055wckbQTnue,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,2025年05月外包供应商考勤表-星途项目,wiki,2,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/FSpjwR8HBi4e3gkXGXGcsDG0nOb,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,2025年04月外包供应商考勤表-星途项目,wiki,2,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/KlXWwfUbei6NjJkw1rvcJYEKnj0,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,A04.01.SAP HR操作指南-缺勤&加班维护,wiki,8,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/Hcq9wruDEidu2qkib7ccqZiJncf,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,A03.03.SAP HR操作指南-人事活动——入、转、调、离,wiki,8,1,1,考勤,考勤,https://my-ichery.feishu.cn/wiki/FTFQw6RWmip0Kxk7VctcCpfUnhe,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+8.7,飞书应用上架说明,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/Odx8dEqC0oEsD7xl9JacT71an4c,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 1
+8.5,如何申请应用系统的账号和权限？(例：OA、合同系统、SAP、MES、PQCP、SRM...等),wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/HWepwS7tciM6X5kO7alcgGMunah,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+8.0,飞书授权登录开发设计,wiki,8,2,1,邮箱与应用,单点登录 | 飞书应用,https://my-ichery.feishu.cn/wiki/H0J8w0VDGicF52k1SJ6cV61Insg,,覆盖类别 1 | 命中次数 2 | 知识库来源
+8.0,网络学院常见问题备忘（FAQ）,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/OzV7dUWOJoEBc3xkiFhc9OPWnyg,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,信息化指南,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/DeqcdXPnYoKorCx2F9FcqNmWnyc,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,奇瑞国际人才发展系统说明答疑,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/Zu73ds4UCohc8OxBc5icjMtbnle,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,iChery学习手册,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/MQ0cdaWMeo4aODx2a4fcBKTfn8d,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,智界数据管理业务指导手册,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/TBKhd0mV4o03UDxIXQrc3UHZnlc,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,《墨甲机器人员工出入境指南与海外工作安全提醒》-,docs,docx,1,1,邮箱与应用,MFA,https://www.feishu.cn/docx/XNh2dAu6EoQMAjxJnbNc6PJfnMj,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,员工管理制度,docs,docx,1,1,考勤,考勤,https://www.feishu.cn/docx/doxcng2WuNQoFwYt9IDn3iqXqUb,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+7.5,健身打卡,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/Cdo0dNy7Ko2P6gxoRUfcNG27njc,,覆盖类别 1 | 命中次数 1 | 可读取正文
+7.5,旅行计划,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/YU8sdVEJwo4bv0xyejacTOjInYd,,覆盖类别 1 | 命中次数 1 | 可读取正文
+7.0,E0V 模具验收差旅日报20260207,docs,docx,1,1,考勤,考勤,https://www.feishu.cn/docx/OOnsd9reUoEkV1xMRdzc6eUenCc,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 标题疑似噪声 -1 | 可读取正文
+6.5,飞书云文档内存如何申请扩容？,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/Ntfow3bumiD6CJkSPKocQybhnsf,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,如何使用飞书远程,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/NlnVw3NZTiCkzakPA4Gcn3KNnjg,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,如何在电脑上找到飞书图标,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/RVwnwuqj8i2LXEkQxeXcBuqgnye,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,如何使用飞书思维导图？,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/KihnwHV74iH3pxk7YCGccxHjnGI,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,飞书投票如何操作？,wiki,8,1,1,邮箱与应用,飞书应用,https://my-ichery.feishu.cn/wiki/SlJhw3uouizmeskvyMlcHfKynZc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,CGBOM系统账号,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/FvqVwJqh6ikSoSkYhhEcQ7oUnVg,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,接入三方系统账号统计,wiki,3,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/BEpAwFCdIiFYmWkgaFmcOLgVn7f,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,财务共享报账系统,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/GCNLwRa0Xij6Llk2dDHcEFPpnng,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,5.6停用零件号系统操作,wiki,8,1,1,邮箱与应用,系统账号,https://my-ichery.feishu.cn/wiki/KfGowkM9Viq45dkorakczFWfnfe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,开发-单点登录接入标准-Odin,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/WonFwOvo0i7dHlkVeyHcHSj6nhg,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,开发-单点登录接入标准,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/VVwawrFiciOA2bkLN10cfzSBnIb,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,单点登录接入标准-经销商门户,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/JF3Tw1Cipils8skx06Scssranlc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,技术架构,wiki,8,1,1,邮箱与应用,单点登录,https://my-ichery.feishu.cn/wiki/WHjWwbY6Bi8fQvkgDGtcwcZXnhe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,SSO,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/J5tXw4gm8iQaqdk7eZNcZIhGnOJ,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,SSO灾备部署架构,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/VuOnwXADBi9XHbknuz1cyxCBn3f,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,PaaS&SSO域名清单,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/Hw8GwMQyMimqISk2BNRcinaNnGf,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,Loki - SSO登录模块(PRD阶段),wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/Cio7w6vp1iSCrSkbhYpcvFTinRo,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,SSO-接入开通信息标准,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/QbejwN2SMiiQsDkiOpycZxkQnte,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,PAAS SSO 热备实施,wiki,8,1,1,邮箱与应用,SSO,https://my-ichery.feishu.cn/wiki/N7CowzfSQiUhOJkhkbyc8KqxnLf,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,南非uat环境导入数据,wiki,8,1,1,邮箱与应用,MFA,https://my-ichery.feishu.cn/wiki/QFzEwa451iCpS2kqYF2cTJnQnDe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,多维表格的入门学习-字段配置,wiki,8,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/EtTZw1D2MipExYkAa7Oc7HTmnye,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,自研智界 国际APP功能清单（历史作废）,wiki,2,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/RIV8w46c6iGHKekhuJ9ccePPnfx,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,开阳-行政服务,wiki,8,1,1,考勤,补卡,https://my-ichery.feishu.cn/wiki/NSbGwd0jCi4cdakMFwPcMG7cnme,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,ONE站会 20260316,wiki,8,1,1,考勤,补卡,https://my-ichery.feishu.cn/wiki/BuhqwStpei5awIkLpt8cgnZAnJe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,内部问题反馈与业务熟悉记录,wiki,3,1,1,考勤,考勤异常,https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+5.5,飞书文档使用入门介绍,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/FuT9dysOQo0WEYxRyoFcpGB3nEe,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,会议任务督办,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/GuXcdBUSzowO7mxRkORcjwNfntg,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,OO的说明书,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,App 登录交互图,docs,docx,1,1,邮箱与应用,飞书应用,https://www.feishu.cn/docx/doxcn0aRakphwuPdTNwojoV5Vjh,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,奇瑞座舱域控制器系统需求文档_DVR_M32TFL3分支_V1.0.2i,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/BkuxdkLBTocfL5xG46zcIpUxnre,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,个人说明书,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/CxQFdUewdoFMjkxN8QMcQ0Ygnhg,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,个人说明书,docs,docx,1,1,邮箱与应用,系统账号,https://www.feishu.cn/docx/R6MldjecAoj1IqxrsyeckLLNnke,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,旅行计划,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/EoPUdZx0eowUpUxTlxecyxzDnbN,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,周计划手帐,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/doxcnTWPPApQ91HVXiu8wmCVs7g,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,减脂比赛规则,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/Fq8JdTL4MoPVTYxCK5Kc21G2nKe,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,26校招话术,docs,docx,1,1,考勤,打卡,https://www.feishu.cn/docx/AxtydVGtXofBFPxCKJbczcbunHb,rate_limited,覆盖类别 1 | 命中次数 1
+3.5,云桌面专项测试报告,wiki,2,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/DzffwhMA1iBUqqkNORQcLtxUnoi,,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1 | 知识库来源
+3.5,QQ新媒体传播部周度工作复盘暨下周规划,wiki,8,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/IqrpwnyABiJRSSkNOhUcVM5dnbc,,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1 | 知识库来源
+3.5,信息公司外包人员管理之办法（草稿）,wiki,8,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/OpT5wKMjSimaXMkMJEjcvF2Hnbg,,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1 | 知识库来源
+3.5,高站稳- 工作周报,wiki,8,1,1,考勤,打卡,https://my-ichery.feishu.cn/wiki/HuNuwpM7LiQRiOkS7RTczHA9nKc,,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1 | 知识库来源
+3.5,前端H5专业组 工作周报,wiki,2,1,1,考勤,补卡,https://my-ichery.feishu.cn/wiki/Ltp7w1o0ticSoukaX1ecFq8SnZc,,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1 | 知识库来源

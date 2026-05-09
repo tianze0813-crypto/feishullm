@@ -1,0 +1,39 @@
+{
+  "scopes": {
+    "tenant": [
+      "docs:document.content:read",
+      "auth:user_access_token:read",
+      "base:record:retrieve",
+      "bitable:app:readonly",
+      "contact:user.base:readonly",
+      "contact:user.basic_profile:readonly",
+      "im:message",
+      "im:message.group_at_msg:readonly",
+      "im:message.p2p_msg:readonly",
+      "im:message:readonly",
+      "im:message:send_as_bot"
+    ],
+    "user": [
+      "base:app:read",
+      "base:record:retrieve",
+      "base:table:read",
+      "bitable:app:readonly",
+      "calendar:calendar:read",
+      "contact:contact.base:readonly",
+      "contact:user.basic_profile:readonly",
+      "contact:user.employee_id:readonly",
+      "contact:user:search",
+      "docs:document.content:read",
+      "docx:document:readonly",
+      "drive:drive.search:readonly",
+      "im:chat:readonly",
+      "im:message.group_msg:get_as_user",
+      "im:message.p2p_msg:get_as_user",
+      "offline_access",
+      "search:department:read",
+      "search:docs:read",
+      "search:message",
+      "wiki:wiki:readonly"
+    ]
+  }
+}

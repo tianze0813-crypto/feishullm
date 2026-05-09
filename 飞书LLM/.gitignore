@@ -1,0 +1,12 @@
+.env
+!.env.example
+.env.*
+__pycache__/
+*.pyc
+.tokens/
+.memory/
+.venv/
+.venv*/
+Lib/
+Scripts/
+*.code-workspace

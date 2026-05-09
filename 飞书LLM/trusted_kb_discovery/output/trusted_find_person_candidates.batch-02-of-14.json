@@ -1,0 +1,2807 @@
+[
+  {
+    "title": "信息化指引手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "url": "https://www.feishu.cn/docx/Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "owner_id": "ou_973f8643b939fd430af1a207ec10f656",
+    "hit_count": 5,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "开通权限",
+      "忘记密码",
+      "权限开通",
+      "重置密码"
+    ],
+    "score": 29.2,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 5",
+      "标题强信号 2",
+      "可读取正文",
+      "正文强信号 6"
+    ],
+    "raw_status": "",
+    "raw_preview": "信息化指引手册\n\n⭐电脑板块⭐\n国际业务事业群（非海实非墨甲）在OJ二楼库房领取，联系@肖宏星@赵志鹏。\n入职需领取(💻电脑，🖱鼠标，🎒背包，🔌充电器) 库房位置：国际2号库房位置：国际园区OJ小白楼2楼📍库房开放时间：周一至周五9：00~17：00，领取并进行领用登记表登记。\n离职需退还(💻电脑，🖱鼠标，🎒背包，🔌充电器) 到库房。离职电脑具体流程：①先将电脑还到OJ库房，②还完后去国际主楼CEO一楼综合行政找@王圣智签字即可。\n\n\nimage.png\n\n\n46a39e4b-ac0c-4253-ba82-109b19d10ce4.jpeg\n\n国际业务事业群（海实）在国际主楼4楼407办公室领取，联系@徐磊\n墨甲智创在墨甲一楼领取，联系@许明昇或者@陈雷\n电脑问题可IT自助报修或直接拨打5926666转人工，进行远程服务或者联系工程师上门\nimage\n\n 新员工电脑的chery域账户密码登录\n新员工电脑入手后,通过飞书工作台\"IT服务\"栏目(如下图   应用列表往右滑动可见）,统一身份账户密码自助\n图片.png\n\n\n图片.png\n\na)打开后,先输入飞书手机号\nb)再通过,短信验证方式…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "EAM系统使用常见问题解决手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "url": "https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "owner_id": "ou_4fb34393c2f6da52f8d5127806f5cf00",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "忘记密码",
+      "权限审批",
+      "系统权限"
+    ],
+    "score": 22.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 3",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 5"
+    ],
+    "raw_status": "",
+    "raw_preview": "EAM系统使用常见问题解决手册\n概述：\n目的：\n         本文档用于解决用户在EAM系统使用过程中，因操作不熟练、网络或浏览器设置等常见问题的自助排查。如文档内容无法支持问题解决，可采用以下三种方式提交海行云运维解决。\n运维解决路径：\n报修路径：iChery工作台——IT自助报修\nimage.png\n\n账号申请、数据修改、新增功能 路径：OA工作台——信息化申请\n（需求类目选择“运维_数据处理\"，业务类型选择\"EAM\"其他必填项填写一下）\nimage.png\n\n1701848216036.jpg\n\nimage.png\n\nimg_v3_02ap_b01c95b3-5865-4f7f-832c-4918e9766dbg.jpg\n\n新增需求：奇瑞BOSS平台——我得需求——提需求\n奇瑞BOSS平台（ https://boss.mychery.com/Dmd/Regist/Index），根据具体需求类型提出相关改进需求\nimage.png\n\n           \nimage.png\n\n操作手册&培训课件：\n维修专业保全-维修工程师/维修工操作课件：\n      用作指导：\n     …",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞国际人才发展系统说明答疑",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Zu73ds4UCohc8OxBc5icjMtbnle",
+    "url": "https://www.feishu.cn/docx/Zu73ds4UCohc8OxBc5icjMtbnle",
+    "owner_id": "ou_6e12e786645eb3cfcfa13ff500300c7d",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "账号开通",
+      "重置密码"
+    ],
+    "score": 17.7,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 3",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "奇瑞国际人才发展系统说明答疑\n一、登陆指引：\n1.基础信息\n登陆网址：https://gtds.mychery.com/\n飞书通知邮箱：gtds@mychery.com\n管理员：培训-钱盈羽（18255367947）\n有问题请填：国际人才发展系统问题处理申请\n2.登陆账号密码\n\n公司编码：mychery\n登陆账号：工号（删去首位的00/CH）；COC-000；XK0000\n登陆密码： 初始密码 mychery@123.com\n密码重置：登陆页面用飞书邮箱重置密码，仍有问题填国际人才发展系统问题处理申请\n\n新入职员工注意：新人账号定期开通\n可以填写国际人才发展系统问题处理申请，选择“新账号申请”，联系账号开通人员-秦玉玲，请她帮开通账号。\n\n二、操作指南\n\n\n\n学员：指南&使用问题提报\n学员指南：奇瑞国际全球人才发展系统使用指南（学员学习指南）-0811.pptx\n问题提报：国际人才发展系统问题处理申请\n\n\n\n培训接口：常用功能\n管理员指南：奇瑞国际公司全球人才发展系统使用指南（管理员版本V2）.pdf\n      简洁版：管理员智能班级录课简版\n      线上版本：国际培训系统使用教…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "登录账号、密码、权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XX3gdmV0Ro5AybxY1SGcw4BInvc",
+    "url": "https://my-ichery.feishu.cn/wiki/SKhdweH5Ai356DkojJycVDsdnhe",
+    "owner_id": "",
+    "hit_count": 4,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "权限开通",
+      "访问权限",
+      "重置密码"
+    ],
+    "score": 17.0,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 4",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "OO的说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "url": "https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "owner_id": "ou_ee2adb57863f1be9888da92d351f0af8",
+    "hit_count": 4,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码",
+      "权限开通",
+      "重置密码"
+    ],
+    "score": 16.7,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 4",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "OO的说明书\n\n      👨 基本信息：\n姓名：王媛媛\n负责业务：KMS系统、知识管理业务、图纸资料费报销（全球技术创新中心）\n办公时间：周一至周五8:30-17:00\n办公室地点：研创中心8号楼4F-067（出电梯左转，中间列靠近402会议室）\nimage.png\n\nKMS用户操作手册（IT制作，本说明书没找到的地方可以在这找找）\n一、KMS权限问题（可参考CKMS研发模块管理规定）\nhttps://kms.mychery.com/kms/multidoc/kms_multidoc_knowledge/kmsMultidocKnowledge.do?method=view&fdId=16cfeb8882961117e2d92d14ef08d1bd\n1、KMS登录不上\nimg_v3_0210v_b883c6cb-6c7d-49e1-ac45-3ba1b4b84bcg.jpg\n\n①场景一：账号申请（没有账号）\n原则：股份内的人都可申请，多人开通也可统一走一个流程，可代走申请流程\n步骤：走OA信息化需求申请流程申请账号，在需求内容中填写以下信息：姓名/部门/手机号码/工号/企业邮箱，IT…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "星海大数据平台账号权限申请",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "url": "https://www.feishu.cn/docx/QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "owner_id": "ou_0800725596df725600ce6e2f513a2161",
+    "hit_count": 4,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批",
+      "权限开通",
+      "访问权限",
+      "账号开通"
+    ],
+    "score": 15.7,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 4",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "星海大数据平台账号权限申请\n请各位申请人严格按照流程来，表单必填，不懂的联系@张帝\n业务审核\n发送邮件并填写表单，账号开通后以邮件形式反馈！\n填写表单（必填），未填写表单没信息不给以开通！！！！！！！！！\n\n\n申请人发送邮件\n奇瑞内部员工：\n收件人：张帝 zhangdi4@mychery.com\n抄送：朱军 zhujun3@mychery.com、闻号 wenhao@mychery.com 、刘勇 liuyong20@mychery.com、万双龙 wanshuanglong@mychery.com\n内容：各位领导、同事：\n         工号：（xxxxxx），name，因*****业务需要（说明需求！！！、以及需要查看车型的数据！！！！！），现申开通账号访问奇瑞星海大数据平台的权限。\n烦请奇瑞星海大数据平台系统负责人闻号确认，数据平台及工具链开发部部朱军部长审核。\n谢谢！\n注！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n内部员工申请飞书账号前，请提前飞书登录一下创建账号，统一申请的由申请人请通知各需求人员操作\nimage.png\n\n\n\n供应商申请：…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "各系统账号、权限申请(注销/变更)流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Xd6EdbldCoD2eyx9kdRcUVmvnWd",
+    "url": "https://my-ichery.feishu.cn/wiki/LBdywjN2Mi4Zxikr5KdcAyaln2g",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限开通",
+      "系统权限"
+    ],
+    "score": 13.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "合同系统中审批人权限需要修改，或者申请某个合同审批流程的发起权限，如何处理？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WxFwdkDiGofINkxyI1dcx0G7nhC",
+    "url": "https://my-ichery.feishu.cn/wiki/Ss35wbs5Xin5TckVOm5c9RdOnUe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批",
+      "系统权限"
+    ],
+    "score": 13.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1.5 离职权限转移",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "SssVdiS6ZojBalx35wMcIEZpn6e",
+    "url": "https://my-ichery.feishu.cn/wiki/YP2AwK9YgiYuT2kviEKcPWCBn1c",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限开通",
+      "访问权限"
+    ],
+    "score": 13.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1.2 项目权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Z1zEdSEIboQmCKxtCiwcZoEZnQf",
+    "url": "https://my-ichery.feishu.cn/wiki/RLhvwCwtQirXzgkZ2wwceuOFnfb",
+    "owner_id": "",
+    "hit_count": 3,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批",
+      "权限开通",
+      "访问权限"
+    ],
+    "score": 12.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请应用系统的账号和权限？(例：OA、合同系统、SAP、MES、PQCP、SRM...等)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "IO09d8A8wozRh1xHLEKcBZFjntc",
+    "url": "https://my-ichery.feishu.cn/wiki/HWepwS7tciM6X5kO7alcgGMunah",
+    "owner_id": "",
+    "hit_count": 3,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批",
+      "系统权限",
+      "账号开通"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "新人入职指南",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Ah7xdkG6To9yL2xVuwBcUhjfnsg",
+    "url": "https://my-ichery.feishu.cn/wiki/FvbDwS3KTiuH1lkyCewcpQWDnJb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "CGDES常见问题处理手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "LbWtdvmV3oPQpYxem6HcfpQGnEe",
+    "url": "https://www.feishu.cn/docx/LbWtdvmV3oPQpYxem6HcfpQGnEe",
+    "owner_id": "ou_33d0ad89336ef44c727b6b05cf233d81",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码",
+      "重置密码"
+    ],
+    "score": 11.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "🤖 新人指南",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "G8wddqEtBosgaLxKwl6cbFFunCf",
+    "url": "https://my-ichery.feishu.cn/wiki/GoG9wULgPicNUtk951rc7GwynHf",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "账号开通"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请VPN权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "GgJQdOpu7oBCxYxQDCgcH8cDn1f",
+    "url": "https://my-ichery.feishu.cn/wiki/St3KwFWWvikYYlkHEHdciDzWnBf",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限开通",
+      "访问权限"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "UnvpdJP1RoWSNtxJcwxcpeoenqe",
+    "url": "https://my-ichery.feishu.cn/wiki/Xk94wZxgSi8YSukx09VcvLzYnfh",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批",
+      "权限开通"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "ODIN权限管理功能相关数据表统计",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "EpdCdAFndoMl7fxgiw8c3QwDnqg",
+    "url": "https://www.feishu.cn/docx/EpdCdAFndoMl7fxgiw8c3QwDnqg",
+    "owner_id": "ou_b274988b5de9fa1d75bd9e10f930e1e4",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 10.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "ODIN权限管理功能相关数据表统计\n系统管理\n权限管理\n平台账号管理\n接口：\n接口地址：/user/pageForPcUser\n请求方式：get\n接口功能：平台用户管理的分页查询\n接口涉及的表：\n\n表关系说明\n\nsys_user <-> sys_user_account (用户与账号一对一关系)\nsys_user <-> sys_user_dept <-> sys_dept (用户与部门多对多关系)\nsys_user <-> sys_user_role <-> sys_role (用户与角色多对多关系)\n菜单管理\nPC端：接口参数：channel=1\n企微：接口参数：channel=2\n接口\n接口地址：/menu/treeByChannel \n请求方法：GET \n接口功能：根据指定条件查询菜单树结构\n接口涉及的表\n\n表关系说明\n在此接口中单表查询\n角色管理\n接口\n接口：/role/page \n请求方法：POST \n接口功能：分页查询角色信息\n接口涉及的表\n\n表关系说明\nsys_role 表与 dealer_base_info 表通过 dealer_code 字段进行关联（LEFT JO…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "个人说明书（常见问题）",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "ZTDjdAIoHoTcSDxy9Z6c8OUlnBf",
+    "url": "https://www.feishu.cn/docx/ZTDjdAIoHoTcSDxy9Z6c8OUlnBf",
+    "owner_id": "ou_3c2d4f0107602a00d565b40a413717f6",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 9.9,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 2"
+    ],
+    "raw_status": "",
+    "raw_preview": "个人说明书（常见问题）\n🙋‍♂️ 你好，欢迎联系我！在联系我之前，欢迎阅读以下内容，从而更加了解我，提高我们沟通合作的效率。\n\n\n\n01.png\n\n\n常见问题\n\n一、员工自助类\n1、修改手机号\n人力资源共享交付平台，提供员工自助功能，可以自己修改个人信息（手机号）【股份SDC】修改手机号，可以尝试此方法提交流程，经人事审批后会自动写入SAP系统；\n如是技术工人，且因手机号注销等原因已无法登录系统，则麻烦直接联系自己对应HRBP，在SAP系统修改即可，系统次日会同步更新。\n\n二、入职类\n1、取号失败-离职未办\n如果取号失败，报错是“00000000工号离职手续未办理完成,不予分配工号”，就意味着SAP里该员工离职手续尚未办结，需要离职手续办结后，在预入职模块点击重新取号，取到工号后勾选点击触发流程即可。\n具体可咨询业务伙伴@王丽，或者SAP系统IT同事@王凡\n2、入职触发失败-操作类型有误\n触发流程时，系统会通过SAP系统，校验该员工，历史是否进入过SAP系统。\n--如果该员工从未进过SAP系统，则其操作类型应为“雇用”，同时操作原因则根据业务场景选择“新入职”或“人员划转”\n--如果该…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "用户自助重置密码后端设计方案",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OVX1dbuCaovotyxvzGoclBcHnkh",
+    "url": "https://my-ichery.feishu.cn/wiki/MqgpwZmHVi8fkckFBGncfOIsnze",
+    "owner_id": "",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码",
+      "重置密码"
+    ],
+    "score": 9.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何重置/解锁SAP密码",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XQCedpzNyoZD83xI8E6cgMaVnmb",
+    "url": "https://my-ichery.feishu.cn/wiki/NULzwi5q5iYVbykJKpRcd3jsnYb",
+    "owner_id": "",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "账号解锁",
+      "重置密码"
+    ],
+    "score": 9.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "账号解锁",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请USB权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "BWycdSq0WoTflpxcw5McuhmAnhl",
+    "url": "https://my-ichery.feishu.cn/wiki/PM0pwgEGLil7zZkiNO4cHCzBnlg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "AI数字员工创建手册",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "SK0ddPigBozGPBxI61icKmupnrb",
+    "url": "https://my-ichery.feishu.cn/wiki/XCBgwzYntiYl5bkcAt0ciX53ndg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "DFMEA系统角色权限对应功能有哪些？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "SgzLd73H8ovcoNxWIS2cJHo4n9b",
+    "url": "https://my-ichery.feishu.cn/wiki/QinowkRfTiKT01k2ZF3cQ1SYnic",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "捷途试验车系统角色权限有哪些？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "U4VGdHBtNoycF2xGkBHcGEjRnjg",
+    "url": "https://my-ichery.feishu.cn/wiki/XMwuwn2LUiw5r5k67r4cPyebn7b",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请国际网络chery-international访问权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "W0DhdVi78otbymxOUMEccIA4nOb",
+    "url": "https://my-ichery.feishu.cn/wiki/E8jlwNq6IihRW3kRivNcky1dnGE",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "特殊网络权限申请",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XqBAd9EpdoMTMdxch5xcVztin9e",
+    "url": "https://my-ichery.feishu.cn/wiki/CI6CwEp7eiYwdCka4cPcMrVAnWc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何查看自己电脑是否有管理员权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Y47ZdVv2PopPVNxHXJIcTxwXn1N",
+    "url": "https://my-ichery.feishu.cn/wiki/YClXwVPWQi3SA7kLvBEcRNotnte",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "新建ADA权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "JNtydMmsFoE0BXxfEg2caADJnJh",
+    "url": "https://my-ichery.feishu.cn/wiki/FYGMwCG7iiCI2WkuDh5cziQSnI5",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "CGERS账号申请流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "RA5Bdt8qYoKJSVxb03TcndoJnqh",
+    "url": "https://my-ichery.feishu.cn/wiki/R8LKwILdai7G8Sku2IeciqnjnUo",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "对公报销时选择不到供应商银行账号或者选择不到供应商信息",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "FufJdnw7zoF54KxhNYvcrS70n6c",
+    "url": "https://my-ichery.feishu.cn/wiki/Fkonw7F2piEUAbkyy5gcR7Hinsh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "3.1 TC账号&项目权限管理",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "HgKzdP1d8o0MmmxFD0TcBaEOnGg",
+    "url": "https://my-ichery.feishu.cn/wiki/HfZGwm6BnipPPGkTkzpc69Swnog",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限开通"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请本地管理员权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "HsZHdQnURoBfivxVitAcTnOonJg",
+    "url": "https://my-ichery.feishu.cn/wiki/FlLbwD2byijRpykXriwcpiCnnQd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限开通"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "飞书应用上架说明",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Odx8dEqC0oEsD7xl9JacT71an4c",
+    "url": "https://www.feishu.cn/docx/Odx8dEqC0oEsD7xl9JacT71an4c",
+    "owner_id": "ou_ff2e8f26448ffeb79430b948229bef23",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 8.7,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "飞书应用上架说明\n1、在OA中发起“信息化需求申请流程”\nimage.png\n\n2、内容按照图示填写\nimage.png\n\n3、流程审批结束后，在开发者后台按照流程中提交的信息创建自建应用并申请发布上架。\nhttps://open.feishu.cn/app/\n\n\nimage.png\n\n\nimage.png\n\n4、审批通过后，飞书工作台上架应用结束，后期如有发版调整，请按照系统权限业务申请流程要求重新输入。",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "海行云工作日常",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "R6QudejIoorfKTxM46FcAf5Cneb",
+    "url": "https://www.feishu.cn/docx/R6QudejIoorfKTxM46FcAf5Cneb",
+    "owner_id": "ou_65c35f32f8f6ddf8ed863aaeb3dbae51",
+    "hit_count": 3,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限开通",
+      "系统权限"
+    ],
+    "score": 8.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "速通捷途研发教程（限时免费版）",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "HCitdop5RoAoQKxdKZvcBhw7n6f",
+    "url": "https://www.feishu.cn/docx/HCitdop5RoAoQKxdKZvcBhw7n6f",
+    "owner_id": "ou_4ad4c0b46402bd6bbc28f4847100b73f",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码",
+      "重置密码"
+    ],
+    "score": 8.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "内部问题反馈与业务熟悉记录",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "N57bbH5TraeptPsmA9jcaXzznqg",
+    "url": "https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限审批"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "瑞龙项目（30国密码重置).xlsx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "XbpKbMIRyoK9uYxtlQ9c8qZJnbd",
+    "url": "https://my-ichery.feishu.cn/wiki/Me8ow4c72i8TVfkccJvcLpAsneg",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "重置密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何修改域密码？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "E2YUdpsy9oppG0xPL1SckYKZnQf",
+    "url": "https://my-ichery.feishu.cn/wiki/VG7rw0rn6iQgi0kWDfXc3PpKnVe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "重置密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "账号与密码",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "SxNPd5cmKozeicx546Cce3RWnYc",
+    "url": "https://my-ichery.feishu.cn/wiki/E0ihwZaX8i7189k6J4nctbAHnLd",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "重置密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "4.1.2用户设置",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "JM7gdcJ7OoP3wjxLCOmcf1FlnIh",
+    "url": "https://my-ichery.feishu.cn/wiki/A0dNwPHA2itmspki3MGcdznwnic",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "Polarion(ALM)系统自助修改账户密码(非忘记)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "AoUIdTRVtoBqhbxXqrVcK18Enhh",
+    "url": "https://my-ichery.feishu.cn/wiki/NPrswN3n1ifGtYkcoTwcU61Wnlf",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码",
+      "重置密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "数据安全工作指引",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "UCVHdhjeIoWWYVxUnUUcoePRnMh",
+    "url": "https://www.feishu.cn/docx/UCVHdhjeIoWWYVxUnUUcoePRnMh",
+    "owner_id": "ou_ec31edb98877b387110f885883fbc918",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "阿里云无影云桌面使用指南",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "EHKyd023voUEEOxLX1AcBD7onmb",
+    "url": "https://www.feishu.cn/docx/EHKyd023voUEEOxLX1AcBD7onmb",
+    "owner_id": "ou_e6f496945f169d58a1489dc6dd16c4f9",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "iChery学习手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "MQ0cdaWMeo4aODx2a4fcBKTfn8d",
+    "url": "https://www.feishu.cn/docx/MQ0cdaWMeo4aODx2a4fcBKTfn8d",
+    "owner_id": "ou_0e97f7f482e9192eef5662f35545a12f",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "Mornine（墨茵）机器人操作手册 V0.4",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "IytJdnpZtoOPW8xV4klcp4aOnHh",
+    "url": "https://www.feishu.cn/docx/IytJdnpZtoOPW8xV4klcp4aOnHh",
+    "owner_id": "ou_c88b575d6b51f39853e21e98e2217e41",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "达人孵化部11月总结与12月计划",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "SlmKdobb1oQzPFxqruicV5l5ntf",
+    "url": "https://www.feishu.cn/docx/SlmKdobb1oQzPFxqruicV5l5ntf",
+    "owner_id": "ou_c5d988dedffc0e8d97ed8b7df242cf50",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 7.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "达人孵化部11月总结与12月计划\n一、总部达人孵化业务总结汇报\n1、总部达人孵化短视频业务\n1.1、数据总览   \n\n截止11月30日，达人孵化部：\n孵化自有达人IP：10个；\n孵化粉丝总量：173万；\n总曝光：2.3亿 ；\n月视频发布目标90条，完成99条，完成率110%；\n月粉丝增量目标：45万，完成37.60万，完成率83.55%，环比10月下降5%；\n月曝光增量目标：3200万，完成2977.32万，完成率93.04%，环比10月上升39.67%；\n其中各IP数据如下：\n1.2、矩阵总览 \n达人矩阵总粉丝情况\n\n\n1.3、曝光突破\n11月份爆款达成条数12条，环比上月增长200%\n\n总结：本月爆款数量较上月有较大提升，在选题方面抓住热点话题，紧跟网络热门事件，内容上通过角度再造和形式创新为用户提供“信息获得感”和“视觉新鲜感”。\n\n\n\n百万爆款：4条\n\n抖音2025122-427894.mp4\n曝光：426.1W\n\n抖音2025122-500394.mp4\n曝光：104W\n\n抖音2025122-725739.mp4\n曝光：101.3W\n\n抖音2025122-745765.mp4…",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "个人说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CxQFdUewdoFMjkxN8QMcQ0Ygnhg",
+    "url": "https://www.feishu.cn/docx/CxQFdUewdoFMjkxN8QMcQ0Ygnhg",
+    "owner_id": "ou_13b118d9c325bc9d985205c38feef94a",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 7.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "个人说明书\n🙋‍♂️ 你好，欢迎联系我！在联系我之前，欢迎阅读以下内容，从而更加了解我，提高我们沟通合作的效率。\n\n\n↑ \n选中上方图片粘贴以替换\n🏹 座右铭:\n我退一万步讲，你压根听不清\n\n\n\n\n\n      👨 基本信息：\n姓名：韦远洋\n办公室地点：\n（1）芜湖： 外包产业园8号楼，1202\n              宇培工厂办公室：210\n（2）开封：商用车研发大楼3楼，428\n负责业务：\n（1）商用项目产业园一期   \n（2）万达制造平台\n（3）SQM 运维        （供应商质量管理系统）（商用车、智科）\n（4）PQCP 运维       （质量问题控制系统）   （商用车） \n（5）SRM 运维          （开瑞供应商管理系统）（商用车、智科）\n（6）TPCAMS 运维    （计量管理系统）        （商用车）\n（7）OTWB\n电话：17355378624\n🎱 个人简介：\n      还是不说了\n\n\n\n02.png\n\n\n\n关于我的工作\n不管遇到什么困难，你的屁股永远在你后面\n\n \n      💼  工作范畴     一、开瑞SRM           …",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "个人说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Lbk7dQBC9oS3pbxKEPUc1ZomnQc",
+    "url": "https://www.feishu.cn/docx/Lbk7dQBC9oS3pbxKEPUc1ZomnQc",
+    "owner_id": "ou_4ea2b755268bf4d429a304ab089d5df3",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限开通"
+    ],
+    "score": 7.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "CJLR安防业务说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "WREtdAJikoymj9xXxUQcbl2Hngr",
+    "url": "https://www.feishu.cn/docx/WREtdAJikoymj9xXxUQcbl2Hngr",
+    "owner_id": "ou_0da703306e853f5cb44d1c72a63a7bef",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限开通"
+    ],
+    "score": 7.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "营销数字化项目集进展汇报 副本",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "JFMzdnUJBoLdt3xkLh3c63kbnEE",
+    "url": "https://www.feishu.cn/docx/JFMzdnUJBoLdt3xkLh3c63kbnEE",
+    "owner_id": "ou_b81802a93aca05d9fe81409c5ac3f985",
+    "hit_count": 2,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限开通"
+    ],
+    "score": 7.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "SSO-接入开通信息标准",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "S5A4ddfd5owvccxEz5lcfIAlnyc",
+    "url": "https://my-ichery.feishu.cn/wiki/QbejwN2SMiiQsDkiOpycZxkQnte",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "信息安全知识库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Zfn6dSyZKoP8JUxSHwqc4mGknOf",
+    "url": "https://my-ichery.feishu.cn/wiki/Mh1HwSm1IiGU3KkbQuhcymhdnJc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "职能E端网络开通信息梳理",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "ZI7nswfJ4he8g3t5jRncqi18n2g",
+    "url": "https://my-ichery.feishu.cn/wiki/HYEkw6Hl4iQsK0kAEggctx51nLe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "CDMS系统.pptx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "HeWbbFvgno9zyaxWPRmcPdeqn6c",
+    "url": "https://my-ichery.feishu.cn/wiki/DgZywDTydiiKftkzLOBcMwnTnZc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "CGBOM系统账号",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "TNQYdJbsloyc9exb2PVcxUvLnFc",
+    "url": "https://my-ichery.feishu.cn/wiki/FvqVwJqh6ikSoSkYhhEcQ7oUnVg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "系统介绍-知识库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Ithzdncytox8PWxbJjoco3dCnNe",
+    "url": "https://my-ichery.feishu.cn/wiki/PNNSw1JFNiTDrPk75Hgcbg2pnOf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "对外接口账号开通",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CUTtdi4vsona6expBhZcgMbtnJe",
+    "url": "https://my-ichery.feishu.cn/wiki/FoxVwi6H0i3YdmkJT5IcgiwTnhc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "账号申请管理",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "UxhnbQ3U1arKmCsnocPcZ9I9njM",
+    "url": "https://my-ichery.feishu.cn/wiki/J4SrwNHwwiiCOLkO8PRcNYZRnm4",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "提交OA银行账号维护申请后，RPA反馈银行联行号不正确如何操作？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Cjdld5nZbovu2LxxbeZcInxMnfe",
+    "url": "https://my-ichery.feishu.cn/wiki/Zl76wd4vmi9sTDkJog6csazKnxf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请devops平台帐号？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "P86oda99doAGEJxC6Rkc5cNen7b",
+    "url": "https://my-ichery.feishu.cn/wiki/LIMpwSk99iAgXwkD24wcFcfBnRd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "账号开通"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "审批操作失败：审批节点【XXX】批准时必须上传分析证明附件",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "UOqadw655owZtvxgDNTcO3Zsn85",
+    "url": "https://my-ichery.feishu.cn/wiki/JButwEv8nix1IAkzuyCcUmHfnWb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "EEA4.0及以上软件EWO审批checklist",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Fp7zdH00hoM2p0x8UJNcnFi1nMe",
+    "url": "https://my-ichery.feishu.cn/wiki/OvOqwrHumi4nR4kxnUfc7FN5nNg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "重新指派审批人、换人（换审批人）",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "JNrHdfHEhoMbyExdwj6cNYhMntb",
+    "url": "https://my-ichery.feishu.cn/wiki/LdQKwkz9Vi4XRyk2IuTcaqmfnOh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "控股OA密码如何自助更改",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CF2xdZOm9ouessxlbHQcilp1nxb",
+    "url": "https://my-ichery.feishu.cn/wiki/VUJAwV8HriZWWakgxKNcYCn2ndd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "excel如何设置密码",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Ul7sd1gSSoayBKxyzR9ciizWnth",
+    "url": "https://my-ichery.feishu.cn/wiki/LwGTwU9bqijpc2kFRaucyjOWnzf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "重置密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "门户登录页用什么账号和密码登录?",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WcrmdXXgJonkuOxTBUhcP54un3f",
+    "url": "https://my-ichery.feishu.cn/wiki/AovswBe6gizjGDkomclc9jcOnTe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "开阳-行政服务",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CraIdCJGaowPHJxfFxDcTfgLnOf",
+    "url": "https://my-ichery.feishu.cn/wiki/NSbGwd0jCi4cdakMFwPcMG7cnme",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "ddms0506版本冒烟用例",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "LFCLs5ODnhTshBtt48Oc1bHWnKc",
+    "url": "https://my-ichery.feishu.cn/wiki/A3r5weoBii7NNeksAK2cqg94nPe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "其他软件合辑",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OboMdKl83oz50Sx3ubichcKSnFd",
+    "url": "https://my-ichery.feishu.cn/wiki/H2MFwNCUziD1xKk1YBscOMCqnFe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "【国际】-APP API接口协议(APP云)-V1.0.2.doc",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "VPEQby121oiaEkxPEgKcM9lin7g",
+    "url": "https://my-ichery.feishu.cn/wiki/TwPtwgmIZiE1aSkdjtUcvUZDnDe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "忘记密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "开发计划（老）",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "FPifbTg50aJ20dsTEwTcBEMqnQe",
+    "url": "https://my-ichery.feishu.cn/wiki/SmjOwQvSFiju43k9lmKcjOF1npg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "账号解锁"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "账号解锁",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "0226发版-PRD验证记录",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "HXbadiYLtoGUE8xvMlyccJVuniZ",
+    "url": "https://my-ichery.feishu.cn/wiki/E3nwwo6BIiAkmWkFmercwJJXnxe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "账号解锁"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "账号解锁",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "智能纪要：股份OA使用培训 2025年4月12日",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CWDKd5rnGoaYBkx2qCJc6GlAnGb",
+    "url": "https://www.feishu.cn/docx/CWDKd5rnGoaYBkx2qCJc6GlAnGb",
+    "owner_id": "ou_973f8643b939fd430af1a207ec10f656",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号",
+      "账号权限"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "账号开通",
+      "重置密码"
+    ],
+    "score": 6.0,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 3",
+      "标题疑似噪声 -2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "科技EMS自制项目周报",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "GzYVdIltrong4WxcdL4cZAdGnYf",
+    "url": "https://www.feishu.cn/docx/GzYVdIltrong4WxcdL4cZAdGnYf",
+    "owner_id": "ou_2acd1edd38750fa8ef271464f6380286",
+    "hit_count": 3,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "开通权限",
+      "权限开通",
+      "账号开通"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "开通权限",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "账号开通",
+        "source": "docs"
+      },
+      {
+        "category": "账号权限",
+        "query": "权限开通",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "飞书文档使用入门介绍",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "FuT9dysOQo0WEYxRyoFcpGB3nEe",
+    "url": "https://www.feishu.cn/docx/FuT9dysOQo0WEYxRyoFcpGB3nEe",
+    "owner_id": "ou_eec0c6ca2474ea3938a5c72777880cca",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "git及gitlab使用说明",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DY9ZdNC4pogcTqxuDyKct0UgnVd",
+    "url": "https://www.feishu.cn/docx/DY9ZdNC4pogcTqxuDyKct0UgnVd",
+    "owner_id": "ou_be494f188a2bbd1148dca59375427fdb",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞座舱DVR产品需求文档_V1.0.0h_E0V_0421",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "CpHddc5MOol2XHxarB8cohEVnKd",
+    "url": "https://www.feishu.cn/docx/CpHddc5MOol2XHxarB8cohEVnKd",
+    "owner_id": "ou_f6a0026eb98536351a8ed402d842eed7",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "访问权限"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "访问权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "墨甲临时采购管理办法",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Br5HdgjNSoD6hOxa9lJch5oOnNb",
+    "url": "https://www.feishu.cn/docx/Br5HdgjNSoD6hOxa9lJch5oOnNb",
+    "owner_id": "ou_2f8ad13bd5945ab1401b77417627616e",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "权限审批"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "权限审批",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "机器狗ARGOS操作使用_初级培训教程 | Machine Dog ARGOS Operation and Usage _ Primary Training Tutorial",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Rh44dZ5pFoWVZVxjQ5WcG4NLnJe",
+    "url": "https://www.feishu.cn/docx/Rh44dZ5pFoWVZVxjQ5WcG4NLnJe",
+    "owner_id": "ou_eccef56c27d1439900f7c43f5401407f",
+    "hit_count": 3,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "密码重置",
+      "忘记密码",
+      "重置密码"
+    ],
+    "score": 5.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 3",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "密码重置",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "重置密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "忘记密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "移动端App测试管理流程 副本0820",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "VG9ZdHKntouWWixLWvoc8OACneb",
+    "url": "https://www.feishu.cn/docx/VG9ZdHKntouWWixLWvoc8OACneb",
+    "owner_id": "ou_153cc585fdd3ad2bf3ae8b55ad041749",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 5.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "E02国际测试问题",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "BQn9sU24fhNbd0tL65LcSDWKnrf",
+    "url": "https://my-ichery.feishu.cn/wiki/WF67wkEntip1EykZyYwcjVpHnsh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "账号解锁"
+    ],
+    "score": 3.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题疑似噪声 -1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "账号解锁",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "网络安全知识分享",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "M3Mnd5uYFoBV6BxHiPKcRTHonxh",
+    "url": "https://www.feishu.cn/docx/M3Mnd5uYFoBV6BxHiPKcRTHonxh",
+    "owner_id": "ou_3556bfa30f14c9c657f768948fab6a04",
+    "hit_count": 1,
+    "categories": [
+      "账号权限"
+    ],
+    "matched_queries": [
+      "系统权限"
+    ],
+    "score": 2.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题疑似噪声 -1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "账号权限",
+        "query": "系统权限",
+        "source": "docs"
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+﻿score,title,source_kind,docs_type,hit_count,category_count,categories,matched_queries,url,raw_status,reasons
+27.7,信息化指引手册,docs,docx,4,2,IT报修 | 账号权限,IT报修 | IT自助服务 | 权限申请 | 电脑维修,https://www.feishu.cn/docx/Jh7TdpqyXoiSb8xVFEGcIX0wn0b,,覆盖类别 2 | 命中次数 4 | 标题强信号 2 | 可读取正文 | 正文强信号 6
+25.5,EAM系统使用常见问题解决手册,docs,docx,5,2,IT报修 | 账号权限,IT报修 | IT故障报修 | 电脑维修 | 设备故障 | 账号权限,https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5,,覆盖类别 2 | 命中次数 5 | 标题强信号 1 | 可读取正文 | 正文强信号 5
+18.6,信息化指南,docs,docx,2,2,IT报修 | 账号权限,IT报修 | 权限申请,https://www.feishu.cn/docx/DeqcdXPnYoKorCx2F9FcqNmWnyc,,覆盖类别 2 | 命中次数 2 | 标题强信号 1 | 可读取正文 | 正文强信号 3
+15.1,补卡、请假申请流程及注意事项,docs,docx,2,1,IT报修,IT报修 | IT自助服务,https://www.feishu.cn/docx/FP3zdceUio1HQAxSYqqcsYcTnXd,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 可读取正文 | 正文强信号 3
+14.0,登录账号、密码、权限,wiki,8,2,2,IT报修 | 账号权限,提交工单 | 账号权限,https://my-ichery.feishu.cn/wiki/SKhdweH5Ai356DkojJycVDsdnhe,,覆盖类别 2 | 命中次数 2 | 标题强信号 1 | 知识库来源
+13.8,HR常见问题及解决方案总览,docs,docx,2,1,IT报修,IT报修 | IT自助服务,https://www.feishu.cn/docx/B0zBdIpZuo2M3nxDYbtcwAcLnze,,覆盖类别 1 | 命中次数 2 | 可读取正文 | 正文强信号 4
+13.0,新人入职指南,wiki,8,2,1,IT报修,IT自助服务 | 服务台,https://my-ichery.feishu.cn/wiki/FvbDwS3KTiuH1lkyCewcpQWDnJb,,覆盖类别 1 | 命中次数 2 | 标题强信号 2 | 知识库来源
+13.0,各系统账号、权限申请(注销/变更)流程,wiki,8,2,1,账号权限,权限申请 | 账号权限,https://my-ichery.feishu.cn/wiki/LBdywjN2Mi4Zxikr5KdcAyaln2g,,覆盖类别 1 | 命中次数 2 | 标题强信号 2 | 知识库来源
+11.5,IT自助报修后如何自行关闭工单,wiki,8,1,1,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/BXEPwPGVEiidrqk68ducBswXnne,,覆盖类别 1 | 命中次数 1 | 标题强信号 2 | 知识库来源
+11.5,变更流程业务和IT支持人员(20),wiki,8,1,1,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/Z10Uwmme1ivAcMk53VbcsgmnnUv,,覆盖类别 1 | 命中次数 1 | 标题强信号 2 | 知识库来源
+11.5,IOT 标准、规范、流程,wiki,8,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/HcRlwOqdhihztSk0WdocRjw2nVD,,覆盖类别 1 | 命中次数 1 | 标题强信号 2 | 知识库来源
+11.1,CJLR安防业务说明书,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/WREtdAJikoymj9xXxUQcbl2Hngr,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 3
+11.1,墨甲临时采购管理办法,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/Br5HdgjNSoD6hOxa9lJch5oOnNb,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 3
+11.1,02.售后服务管理基准,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/OwoedEF1OoNfOPxQvNRcHPa5nGw,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 3
+10.5,飞书如何IT自助报修,wiki,8,2,1,IT报修,IT报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/VPVPwxV2ci54odkJslNcLiNvnVh,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 知识库来源
+10.5,AI数字员工创建手册,wiki,8,2,1,IT报修,IT报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/XCBgwzYntiYl5bkcAt0ciX53ndg,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 知识库来源
+10.0,如何申请应用系统的账号和权限？(例：OA、合同系统、SAP、MES、PQCP、SRM...等),wiki,8,2,1,账号权限,权限申请 | 账号权限,https://my-ichery.feishu.cn/wiki/HWepwS7tciM6X5kO7alcgGMunah,,覆盖类别 1 | 命中次数 2 | 标题强信号 1 | 知识库来源
+9.5,星海大数据平台账号权限申请,docs,docx,2,1,账号权限,权限申请 | 账号权限,https://www.feishu.cn/docx/QlqQdLVrsoJeLCxpVQCc3Drfnyc,rate_limited,覆盖类别 1 | 命中次数 2 | 标题强信号 1
+9.0,ABOM工程师作业指导手册,wiki,8,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/RRCPwAILQiwH6ZkqWuAc6Afhnmh,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,咨询故障报单流程,wiki,8,1,1,IT报修,服务台,https://my-ichery.feishu.cn/wiki/LEgFwqEgQi12isk07RbcDZNCnLd,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,7.点击管理 找不到提交到工作流程按钮.docx,wiki,5,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/J0IUwKKAvihdLskShc9cbVynnvY,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,差旅相关问题,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/UgrIww0E4iS8TEk0LCsc5PPPnKh,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,审批流程,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/YzwbwkiiviP0ZmkasEJcJgEHn4f,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,3.1.2 项目权限申请,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/RLhvwCwtQirXzgkZ2wwceuOFnfb,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,特殊网络权限申请,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/CI6CwEp7eiYwdCka4cPcMrVAnWc,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,权限申请,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/Xk94wZxgSi8YSukx09VcvLzYnfh,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,如何申请USB权限？,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/PM0pwgEGLil7zZkiNO4cHCzBnlg,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,如何申请本地管理员权限？,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/FlLbwD2byijRpykXriwcpiCnnQd,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,如何申请国际网络chery-international访问权限,wiki,8,1,1,账号权限,权限申请,https://my-ichery.feishu.cn/wiki/E8jlwNq6IihRW3kRivNcky1dnGE,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,3.1 TC账号&项目权限管理,wiki,8,1,1,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/HfZGwm6BnipPPGkTkzpc69Swnog,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+9.0,2.0账号申请流程,wiki,8,1,1,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/GTAuwaVS8iIERbkiqd6c8yJXnje,,覆盖类别 1 | 命中次数 1 | 标题强信号 1 | 知识库来源
+8.7,03.售后备件管理基准,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/CxNHd4i1RoQVqyxtoLIct77pnbK,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 1
+8.7,奇瑞能源管理-预约出行产品需求文档_5.1架构_V0.1,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/NLYDdnyInooI4qx8Uzwc96pfnkc,,覆盖类别 1 | 命中次数 1 | 可读取正文 | 正文强信号 1
+8.0,如何申请新电脑？,wiki,8,2,1,IT报修,IT报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/Gn4MwaRHNipTAukdCSxcWfK3nIf,,覆盖类别 1 | 命中次数 2 | 知识库来源
+8.0,开阳-行政服务,wiki,8,2,1,IT报修,IT故障报修 | IT自助服务,https://my-ichery.feishu.cn/wiki/NSbGwd0jCi4cdakMFwPcMG7cnme,,覆盖类别 1 | 命中次数 2 | 知识库来源
+8.0,iCAR 行政后勤服务手册,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/H75vdwtHIo9u6px1gHtcXf2LnGh,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,ODIN权限管理功能相关数据表统计,docs,docx,1,1,账号权限,账号权限,https://www.feishu.cn/docx/EpdCdAFndoMl7fxgiw8c3QwDnqg,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+8.0,智界数据管理业务指导手册,docs,docx,1,1,账号权限,账号权限,https://www.feishu.cn/docx/TBKhd0mV4o03UDxIXQrc3UHZnlc,rate_limited,覆盖类别 1 | 命中次数 1 | 标题强信号 1
+7.0,个人说明书,docs,docx,2,1,账号权限,权限申请 | 账号权限,https://www.feishu.cn/docx/CxQFdUewdoFMjkxN8QMcQ0Ygnhg,rate_limited,覆盖类别 1 | 命中次数 2
+7.0,个人说明书,docs,docx,2,1,账号权限,权限申请 | 账号权限,https://www.feishu.cn/docx/R6MldjecAoj1IqxrsyeckLLNnke,rate_limited,覆盖类别 1 | 命中次数 2
+6.5,内部问题反馈与业务熟悉记录,wiki,3,1,1,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/GIFnwlhdYiZhxYkVB2Pcne6hnUe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,如何重置/解锁SAP密码,wiki,8,1,1,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/NULzwi5q5iYVbykJKpRcd3jsnYb,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,有线网无法连接？,wiki,8,1,1,IT报修,IT报修,https://my-ichery.feishu.cn/wiki/T94IwEq83ifNtRkyLJAcLFMXnbc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,2026年费用预提表-威蓝动力,wiki,2,1,1,IT报修,电脑维修,https://my-ichery.feishu.cn/wiki/HXdNw8gx5iqvozkNRgOcnhpjnfe,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,V2.0,wiki,2,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/Jm6qwH4SHih1mmk9GK6c1jfgnrd,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,常熟工厂停线记录,wiki,2,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/B2nkwep5Ui2YdjkA5bOci8tGnCh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,🔥投稿加热,wiki,3,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/WMwWwPRYuis5BPkeRtacsZ15nvh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,Harmony面试题库,wiki,8,1,1,IT报修,设备故障,https://my-ichery.feishu.cn/wiki/AogZwfVbbi3yuqkSJjpcVvJ0nQh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,IT自助知识库,wiki,8,1,1,IT报修,IT自助服务,https://my-ichery.feishu.cn/wiki/BFsQwsvKCimQVZkCFGycmPxPnYc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,IT自助知识库,wiki,8,1,1,IT报修,IT自助服务,https://my-ichery.feishu.cn/wiki/ITVzwSTJPi3lJDkq9zucTtBQngc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,Polarion(ALM)系统自助修改账户密码(非忘记),wiki,8,1,1,IT报修,IT自助服务,https://my-ichery.feishu.cn/wiki/NPrswN3n1ifGtYkcoTwcU61Wnlf,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,ITR平台 系统架构(4A阶段),wiki,8,1,1,IT报修,服务台,https://my-ichery.feishu.cn/wiki/RlQ0wBaxMiyYZwk0YOBcJOx6nae,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,故障报错处理文档,wiki,8,1,1,IT报修,服务台,https://my-ichery.feishu.cn/wiki/KKCvw2VuCiJ2zokxfYtckfTFnwh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,提交EWO表单,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/RvWtwCmybi3b7ikXgfZctemGnVh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,配件提交订单，资金类型报错,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/GZH8wbfiMiD1fOklz95ca1T5ngd,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,提交变更组至CGBOM2.0,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/IT2awyoHeiOmY8kPFVXcu7Alnbb,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,DDMS详细设计-附件同表单一同提交,wiki,8,1,1,IT报修,提交工单,https://my-ichery.feishu.cn/wiki/DWsTwMhMXimWJOkvFFVcOMYPnRc,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,账号申请管理,wiki,3,1,1,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/J4SrwNHwwiiCOLkO8PRcNYZRnm4,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,资源账号（共享）,wiki,8,1,1,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/QNZQwMIp5iioDmkuj15cVFZQnPG,,覆盖类别 1 | 命中次数 1 | 知识库来源
+6.5,3.1.1 TC账号申请,wiki,8,1,1,账号权限,账号权限,https://my-ichery.feishu.cn/wiki/PO4swg0mEim8XkkGiCgcVknhnmh,,覆盖类别 1 | 命中次数 1 | 知识库来源
+5.5,OO的说明书,docs,docx,1,1,IT报修,IT报修,https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,CRM系统业务沟通会,docs,docx,1,1,IT报修,IT报修,https://www.feishu.cn/docx/O7wTdgHKbo56ZxxnL5UcxlZfn7f,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,奇瑞座舱DVR产品需求文档_V1.0.0h_E0V_0421,docs,docx,1,1,IT报修,设备故障,https://www.feishu.cn/docx/CpHddc5MOol2XHxarB8cohEVnKd,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,墨甲机器人社媒平台,docs,docx,1,1,IT报修,服务台,https://www.feishu.cn/docx/X5yHd6uBzoHcUYxRtVhc3PRFnge,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,数字化项目宣传模板+月宣传需求文档,docs,docx,1,1,IT报修,服务台,https://www.feishu.cn/docx/J2ypdA8CvouTjyx8E4Yc94Oongh,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,CGBOM1.0 申请说明,docs,docx,1,1,账号权限,权限申请,https://www.feishu.cn/docx/TqdNdqA0fo3kc4x9CurcdMwlnJd,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,飞书应用上架说明,docs,docx,1,1,账号权限,权限申请,https://www.feishu.cn/docx/Odx8dEqC0oEsD7xl9JacT71an4c,rate_limited,覆盖类别 1 | 命中次数 1
+5.5,海行云工作日常,docs,docx,1,1,账号权限,账号权限,https://www.feishu.cn/docx/R6QudejIoorfKTxM46FcAf5Cneb,rate_limited,覆盖类别 1 | 命中次数 1
+2.5,集团培训签到与评估码,docs,docx,1,1,账号权限,权限申请,https://www.feishu.cn/docx/YmhfdbfDYo6t1ex50S5cwgVCn6p,rate_limited,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1
+2.5,网络安全知识分享,docs,docx,1,1,账号权限,账号权限,https://www.feishu.cn/docx/M3Mnd5uYFoBV6BxHiPKcRTHonxh,rate_limited,覆盖类别 1 | 命中次数 1 | 标题疑似噪声 -1
+1.0,智能纪要：股份OA使用培训 2025年4月12日,docs,docx,2,1,IT报修,IT报修 | IT自助服务,https://www.feishu.cn/docx/CWDKd5rnGoaYBkx2qCJc6GlAnGb,rate_limited,覆盖类别 1 | 命中次数 2 | 标题疑似噪声 -2

@@ -1,0 +1,2214 @@
+[
+  {
+    "title": "EAM系统使用常见问题解决手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "url": "https://www.feishu.cn/docx/DdQHdC0Y6oKQI0xtQFUcfnKtnU5",
+    "owner_id": "ou_4fb34393c2f6da52f8d5127806f5cf00",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 16.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 5"
+    ],
+    "raw_status": "",
+    "raw_preview": "EAM系统使用常见问题解决手册\n概述：\n目的：\n         本文档用于解决用户在EAM系统使用过程中，因操作不熟练、网络或浏览器设置等常见问题的自助排查。如文档内容无法支持问题解决，可采用以下三种方式提交海行云运维解决。\n运维解决路径：\n报修路径：iChery工作台——IT自助报修\nimage.png\n\n账号申请、数据修改、新增功能 路径：OA工作台——信息化申请\n（需求类目选择“运维_数据处理\"，业务类型选择\"EAM\"其他必填项填写一下）\nimage.png\n\n1701848216036.jpg\n\nimage.png\n\nimg_v3_02ap_b01c95b3-5865-4f7f-832c-4918e9766dbg.jpg\n\n新增需求：奇瑞BOSS平台——我得需求——提需求\n奇瑞BOSS平台（ https://boss.mychery.com/Dmd/Regist/Index），根据具体需求类型提出相关改进需求\nimage.png\n\n           \nimage.png\n\n操作手册&培训课件：\n维修专业保全-维修工程师/维修工操作课件：\n      用作指导：\n     …",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "VPN申请、注销、续期流程.docx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "ViTrb5OFioZ4BZxPF8RcD8Nin6f",
+    "url": "https://my-ichery.feishu.cn/wiki/DeJgwFMNyilUMeksrFdcePZanaf",
+    "owner_id": "",
+    "hit_count": 3,
+    "categories": [
+      "VPN与远程办公",
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "VPN",
+      "邮箱权限",
+      "邮箱申请"
+    ],
+    "score": 15.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 3",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "Mornine（墨茵）机器人操作手册 V0.4",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "IytJdnpZtoOPW8xV4klcp4aOnHh",
+    "url": "https://www.feishu.cn/docx/IytJdnpZtoOPW8xV4klcp4aOnHh",
+    "owner_id": "ou_c88b575d6b51f39853e21e98e2217e41",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码",
+      "找回密码"
+    ],
+    "score": 15.1,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "Mornine（墨茵）机器人操作手册 V0.4\n声明\n\n\n      感谢您购买墨甲机器人产品，为确保已对产品进行正确的设置，请您在使用本品之前，务必仔细阅读本操作手册。本声明及手册所提及的内容涉及您的人身及财产安全，若不遵循或不按照手册的说明与警告而擅自操作，可能会给您和周围的人带来人身伤害或给Mornine机器人或周围的其他物品造成财产损失。本声明及手册为截至本批次产品出厂前的最新版本，后续请通过访问官方网站以获取更新的信息。本手册仅作为对产品进行正常操作的指导，在产品使用过程中，安徽墨甲智创机器人科技有限公司并不对除产品缺陷外的其他原因引发的人身伤害、财产损失承担责任。另，Mornine产品不是网络产品，但该产品可通过连接家庭路由器及家庭路由的相关配置，进行防DOS攻击。\n\n\nAimoga 墨茵 产品说明书v1.0.docx\n\n文档修改记录\n\n\n一、前言\n1.1 手册目的\n本手册旨在帮助用户充分理解并正确、安全地操作墨茵机器人，使其在服务接待、表演展览等场景发挥价值。\n1.2 适用范围\n1、管理人员：手册中详细介绍了产品的功能和性能，企业可有效地将该机器人集成到自身业务流程中。 …",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "iChery学习手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "MQ0cdaWMeo4aODx2a4fcBKTfn8d",
+    "url": "https://www.feishu.cn/docx/MQ0cdaWMeo4aODx2a4fcBKTfn8d",
+    "owner_id": "ou_0e97f7f482e9192eef5662f35545a12f",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码",
+      "找回密码"
+    ],
+    "score": 13.9,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 2"
+    ],
+    "raw_status": "",
+    "raw_preview": "iChery学习手册\niChery入门课程培训\n\n\n序号\n\n课程\n\n课程提纲\n\n1\n\n\n\n\n通过【设置】，配置最适合自己的操作习惯\n1V1单聊。置顶、标记、免打扰、话题、PIN、富文本\n1VN群聊。标签、任务、\n【信息收集】，投票、任务、多维表格\n\n\n2\n\n\n\n\n【会前】日历管理/循环会议/会议邀约、转发\n【会中】屏幕共享/实时字幕/多语种翻译\n【会后】妙计记录/片段截取\n【飞阅会】理念分享\n【国际公司】会议实践\n\n3\n\n\n飞书文档.mp4\n\n\n轻松玩转在线文档\n文档权限管理\n云盘、文件夹\n实践\n\n4\n\n\n飞书表格.mp4\n\n\n表格基础功能\n表格进阶功能\n表格函数小课堂\n\n5\n\n\n飞书多维表格.mp4\n\n\n如何新建多维表格\n多维表格字段\n基础字段\n高级字段\n多维表格记录\n收集数据 - 多维表格表单如何分享\n多维表格如何分享\n分组、筛选、排序\n多维表格视图\n看板视图、甘特视图、画册视图、表单视图\n保护视图\n\n                            更多学习内容解锁，欢迎访问iChery知识库                           \nimage.png\n\n门户…",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      },
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "信息化指南",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "DeqcdXPnYoKorCx2F9FcqNmWnyc",
+    "url": "https://www.feishu.cn/docx/DeqcdXPnYoKorCx2F9FcqNmWnyc",
+    "owner_id": "ou_a8b50a9636ba2442e752e288365c6b5a",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 13.6,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 3"
+    ],
+    "raw_status": "",
+    "raw_preview": "信息化指南\n1、电脑领取、置换、借用\n1.1 电脑领取及登录：\nA:入职新同事联系周祥林（20221479）提供姓名、工号，领取电脑、第二天可以领取已入域电脑。\n      用户名：域账号（工号）\n      初始密码为：111@chery\n     B: #紫云英等入职未配置电脑需申请的（二线或工段长以上人员配置），走控股OA-公文审批类-【同质】内部文件签发申请，经部门长-周祥林-人力部长王春-数字化部长陈刚审批。\n      需填写 ：申请人姓名、工号、岗位、联系电话 （岗位必须写明，工作职责，否则会被退回）\nimage.png\n\n1.2 电脑置换\n      需填写附件1：电脑置换申请表，签字到部门长后，发周祥林（20221479）确认后安排置换，研发部门电脑使用以工作站为主，其他部门以笔记本为主。\n1.3 电脑借用\n     因工作原因需借用电脑，需填写附件2：电脑借用申请表，借用人签字到部门长后，发周祥林（20221479）确认后安排借用。\n2、打印机\n2.1 打印机安装\n日照基地采用共享打印，找周祥林（20221479）安装打印程序\n      使用步骤参考共享打印操作手…",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞座舱本地设置-连接设置产品需求文档_V1.0.2_E0V_1125",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "O6EPdap9OoREXxxQuXxcOqI3nsb",
+    "url": "https://www.feishu.cn/docx/O6EPdap9OoREXxxQuXxcOqI3nsb",
+    "owner_id": "ou_28e69e36cf2afb93e98288e1a12bd682",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公",
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码",
+      "远程连接"
+    ],
+    "score": 12.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "奇瑞座舱本地设置-连接设置产品需求文档_V1.0.2_E0V_1125 \n版本日志\n版本新增/修改文档中为黄色标识，例如：我是新增/修改内容\n版本删除文档中为红色删除线，例如：我是删除内容\n\n\n时间\n\n版本号\n\n变更人\n\n主要变更内容\n\n2025.10.21\n\nV1.0.0\n\n冯希悦\n\n\n从奇瑞座舱本地设置-连接设置需求文档_V1.0.1e创建E0V 分支，根据E0V显示设置项内容，调整文档内容\n5.1.1.3.2  热点管理  显示文言由 ”名称：“名称：“XXXXX””变更为    “共享网络“XXXX””可被发现”\n5.1.1.2.7 添加网络 补充 手动加入网络，连接过程中，该弹窗置灰用户不可操作\n\n2025.10.30\n\n\nV1.0.1\n\n冯希悦\n\n5.1.1.3.2  热点管理  热点密码设置不正确，由红字常显文言提示改为Toast提示，并增加保存成功/失败弹窗逻辑\n5.1.1.1.2.1 已配对设备列表  修改已配对列表记忆设备种类包含经典蓝牙设备与互联设备\n5.1.1.1.2.1  已配对设备列表 新增 CarPlay蓝牙连接时，若无位置、麦克风权限，则需在车机端弹出隐…",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      },
+      {
+        "category": "VPN与远程办公",
+        "query": "远程连接",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "如何修改域密码？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "E2YUdpsy9oppG0xPL1SckYKZnQf",
+    "url": "https://my-ichery.feishu.cn/wiki/VG7rw0rn6iQgi0kWDfXc3PpKnVe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公",
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "VPN",
+      "修改密码"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      },
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "系统管理",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "REzCdqdDJoYg2sxRIVgct94Nn6f",
+    "url": "https://my-ichery.feishu.cn/wiki/ZS9LwZpy7iLKeFkw0JacLW0Snve",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "密码与账号",
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "找回密码",
+      "邮箱权限"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "TSP接口清单.doc",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "Rw8DbwwSpoTKUAxWVP7cUVQHnoc",
+    "url": "https://my-ichery.feishu.cn/wiki/ABGSwLTUQitg6MkfW3acduJInSL",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公",
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码",
+      "远程权限"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      },
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "【国际】-APP API接口协议(APP云)-V1.0.2.doc",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "VPEQby121oiaEkxPEgKcM9lin7g",
+    "url": "https://my-ichery.feishu.cn/wiki/TwPtwgmIZiE1aSkdjtUcvUZDnDe",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公",
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码",
+      "远程权限"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      },
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞汽车APP架构",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "PSyXd99feoE8YpxDhBQcspvWnfc",
+    "url": "https://my-ichery.feishu.cn/wiki/Pln7wi5SwiX7BOkiWRbcBC1ZnTh",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公",
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "远程权限",
+      "邮箱权限"
+    ],
+    "score": 11.5,
+    "reasons": [
+      "覆盖类别 2",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "星海大数据平台账号权限申请",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "url": "https://www.feishu.cn/docx/QlqQdLVrsoJeLCxpVQCc3Drfnyc",
+    "owner_id": "ou_0800725596df725600ce6e2f513a2161",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 11.2,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "可读取正文",
+      "正文强信号 1"
+    ],
+    "raw_status": "",
+    "raw_preview": "星海大数据平台账号权限申请\n请各位申请人严格按照流程来，表单必填，不懂的联系@张帝\n业务审核\n发送邮件并填写表单，账号开通后以邮件形式反馈！\n填写表单（必填），未填写表单没信息不给以开通！！！！！！！！！\n\n\n申请人发送邮件\n奇瑞内部员工：\n收件人：张帝 zhangdi4@mychery.com\n抄送：朱军 zhujun3@mychery.com、闻号 wenhao@mychery.com 、刘勇 liuyong20@mychery.com、万双龙 wanshuanglong@mychery.com\n内容：各位领导、同事：\n         工号：（xxxxxx），name，因*****业务需要（说明需求！！！、以及需要查看车型的数据！！！！！），现申开通账号访问奇瑞星海大数据平台的权限。\n烦请奇瑞星海大数据平台系统负责人闻号确认，数据平台及工具链开发部部朱军部长审核。\n谢谢！\n注！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n内部员工申请飞书账号前，请提前飞书登录一下创建账号，统一申请的由申请人请通知各需求人员操作\nimage.png\n\n\n\n供应商申请：…",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "信息化指引手册",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "url": "https://www.feishu.cn/docx/Jh7TdpqyXoiSb8xVFEGcIX0wn0b",
+    "owner_id": "ou_973f8643b939fd430af1a207ec10f656",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱申请"
+    ],
+    "score": 10.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 2"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "阿里云无影云桌面使用指南",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "EHKyd023voUEEOxLX1AcBD7onmb",
+    "url": "https://www.feishu.cn/docx/EHKyd023voUEEOxLX1AcBD7onmb",
+    "owner_id": "ou_e6f496945f169d58a1489dc6dd16c4f9",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 10.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "阿里云无影云桌面使用指南\n一、无影云桌面账号开通\n用户申请开通阿里无影云桌面后，邮箱会收到一封来自阿里的邮件，里面标注了云桌面的组织ID和账号、密码等初始信息，具体如下图所示：\nimage.png\n\n二、无影云桌面客户端安装\n1、公司电脑安装：\n在公司联软软件商城中搜索无影，点击安装即可\nimage.png\n\n2.非公司电脑安装\n访问此连接：https://www.aliyun.com/product/wuying/download?&msctype=email&mscareaid=cn&mscsiteid=cn&mscmsgid=7090125073101286026&yunge_info=email___7090125073101286026&&spm=a2c4k.27081226.zh-cnc.133&\nimage.png\n\n选择对应的客户端下载安装\n三、无影云桌面连接\n1.双机打开客户端：\nimage.png\n\n2.选择企业版&商业版\n输入组织ID：RA562925，点击右箭头下一步\nimage.png\n\n3.账号类型选择\n飞书扫描/便携账号（账号密码）\nimage.png\n\n…",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "飞书文档使用入门介绍",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "FuT9dysOQo0WEYxRyoFcpGB3nEe",
+    "url": "https://www.feishu.cn/docx/FuT9dysOQo0WEYxRyoFcpGB3nEe",
+    "owner_id": "ou_eec0c6ca2474ea3938a5c72777880cca",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程办公"
+    ],
+    "score": 9.9,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文",
+      "正文强信号 2"
+    ],
+    "raw_status": "",
+    "raw_preview": "飞书文档使用入门介绍\n什么是飞书文档\n飞书文档（飞书云文档）是飞书出品的在线的、可多人共创的办公协作套件。\n包括文档、表格、思维笔记、多维表格等多种类型的工具。\n用途广泛，对于我们部门，不限于以下使用场景：非正式报告，方案清单，数据收集表，模型检查清单，个人经验整理，结果数据库等。\n\nT18D PHEV M1EM  NVH模型检查CheckList（项目组内分工快速完成）2025python年开发培训\n什么情况下推荐用云文档\n飞书云文档在以下场景中表现突出，能有效提升效率或解决特定需求。\n团队协作与多人编辑： \n远程办公与跨设备访问：\n项目管理与知识沉淀： \n灵活权限控制与安全分享：\n集成沟通与高效评审： \n飞书文档的优势\n\n飞书云文档绝不仅仅是一个在线编辑工具，还是绝对的效率神器，颠覆性的沟通工具，甚至能够改变你的沟通、思考的习惯。\n优势 1：永远在线\n飞书云文档是在线的文档系统，不用担心误删、电脑丢了坏了等原因造成文档的永久丢失；任意一台电脑、手机、iPad，只要登录飞书或文档网页版docs.feishu.cn，就可以看到自己之前的资料； \n\n\n用飞书前\n\n用飞书后\n\n 文档存在一…",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程办公",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "登录账号、密码、权限",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XX3gdmV0Ro5AybxY1SGcw4BInvc",
+    "url": "https://my-ichery.feishu.cn/wiki/SKhdweH5Ai356DkojJycVDsdnhe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请VPN权限？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "GgJQdOpu7oBCxYxQDCgcH8cDn1f",
+    "url": "https://my-ichery.feishu.cn/wiki/St3KwFWWvikYYlkHEHdciDzWnBf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "专线访问内网业务申请流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OYGQdQfevoXD0BxB1ylctTq6nAg",
+    "url": "https://my-ichery.feishu.cn/wiki/PVICwZWwziJ6fkkZaDcc5mi2nof",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "云桌面申请流程",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "RMhHdQeQJoXUkSxtTVtcG4p0ny8",
+    "url": "https://my-ichery.feishu.cn/wiki/XCjGwy0WriZjNqktvt3cMeOunuf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "云桌面使用指南",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "DRlTd7h9SoIpXXxZATUcWEJKnBd",
+    "url": "https://my-ichery.feishu.cn/wiki/OlD3wWysviBsP8k5noKcpeLYnDh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "Apollo Android 项目新人指引",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Lozrd8V7zoptKBxyaQacOEwJntc",
+    "url": "https://my-ichery.feishu.cn/wiki/OnPbwKJ1oibQGmk1JUecZai5nPh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "查询车辆相关权限接口",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CLjUd0PLyorFPNxO6WMcn4l5nhf",
+    "url": "https://my-ichery.feishu.cn/wiki/Hf6Vw2L6pi8FwzktaZqcMkNbnec",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "捷途试验车系统角色权限有哪些？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "U4VGdHBtNoycF2xGkBHcGEjRnjg",
+    "url": "https://my-ichery.feishu.cn/wiki/XMwuwn2LUiw5r5k67r4cPyebn7b",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "APP操作手册",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "C5xAd6fCQoHLHpxTeuocsr6ynQh",
+    "url": "https://my-ichery.feishu.cn/wiki/WHLowfHRcieB6Fkq6hAcWso7nRe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程权限"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "内外饰供应商通讯录及对应负责人",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "X532seLsdhR5untR6qFcfCOqnDg",
+    "url": "https://my-ichery.feishu.cn/wiki/RnZywk2VliLLkJk9yQrcxirPnSe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 9.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "资源账号（共享）",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Mcpqdtu6Lol2LYxsCgBc5TFrncU",
+    "url": "https://my-ichery.feishu.cn/wiki/QNZQwMIp5iioDmkuj15cVFZQnPG",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN",
+      "内网访问"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      },
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请公共邮箱",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "JXnvdpeOxojsI5xda2ccr2CXnoh",
+    "url": "https://my-ichery.feishu.cn/wiki/UG4iwHglBicSuDkz927cYIZOnlc",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱",
+      "邮箱申请"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "GitLab",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "VLpAdtuFXoAq4axFJoFc1fXRnrf",
+    "url": "https://my-ichery.feishu.cn/wiki/JEpywM4xNioxb9kUAAqciQmhnnc",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱",
+      "邮箱申请"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "颜色bom工程师邮箱地址配置",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "LfVodcMNmoFLcvxhrwicAA74nwf",
+    "url": "https://my-ichery.feishu.cn/wiki/HzWxwFlgciCvZ8kqvxkc9qDGnBh",
+    "owner_id": "",
+    "hit_count": 2,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱权限",
+      "邮箱申请"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 2",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      },
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "新员工入职须知",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "LOyadT33WoZrFJxvsBgcGbYYnWc",
+    "url": "https://www.feishu.cn/docx/LOyadT33WoZrFJxvsBgcGbYYnWc",
+    "owner_id": "ou_fec04b3b8640cef078b0fc4334d02a85",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱申请"
+    ],
+    "score": 8.0,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题强信号 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "招聘宣传落地页",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "doxcnaYfmLKUn33646TZUvWQoMm",
+    "url": "https://www.feishu.cn/docx/doxcnaYfmLKUn33646TZUvWQoMm",
+    "owner_id": "ou_be99a7cf7146cf41a2bfcf48a60f4483",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程办公"
+    ],
+    "score": 7.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "可读取正文"
+    ],
+    "raw_status": "",
+    "raw_preview": "招聘宣传落地页\n                   温馨提示：为了更好的阅读体验建议在 Light mode 全屏预览 下观看\n\n\n\n飞书标准logo全彩.png\n\n\n\n我们是谁\n\n\n工作职责\n\n\n加入我们\n\n\n工作理念\n\n\n团队福利 \n复制各模块标题的锚点链接，添加到上述文字中，实现快速跳转\n\n\n输入团队的目标或理念…\n\n开头封面.PNG\n\n\n\n1.PNG\n\n\n\n 我们是什么\n         What are we\n\n我们成立于...\n\n我们的业务有...\n\n我们的优势 / 特色 / 企业文化是...\n\n\n位图.png\n\n\n\n2.PNG\n\n 我们是谁\n          Who are we\n输入团队基本介绍，包括团队规模、团队架构、团队成员分布等…\n地域图.jpg\n\n\n\n3.PNG\n\n 我们在做什么\n         What are we doing\n\n\n \n  关键词  1       \n\n招聘沉淀稳定例图处理-02.jpg\n\n\n \n 关键词  2     \n\n招聘沉淀稳定例图处理-07.jpg\n\n\n \n关键词  3     \n\n招聘沉淀稳定例图处理-06.jpg\n\n\n\n我…",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程办公",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "Polarion(ALM)系统自助修改账户密码(非忘记)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "AoUIdTRVtoBqhbxXqrVcK18Enhh",
+    "url": "https://my-ichery.feishu.cn/wiki/NPrswN3n1ifGtYkcoTwcU61Wnlf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "SAP如何自助修改密码？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "VK3pd4oxZoCW0Ex9BgRcNptVnuf",
+    "url": "https://my-ichery.feishu.cn/wiki/Vq8Fw1Y6BiNueQkEYlVcCuBYntf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "修改车控密码接口",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WSwKd9M0Fo2IX4xMlOccfaf3nTk",
+    "url": "https://my-ichery.feishu.cn/wiki/YyGmwNekIir92ikIlX2cs4QXnde",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "域密码/开机密码修改后，共享文件夹无法打开或报错",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "EUWZd8lEXopIADxaOrkcwxhAnue",
+    "url": "https://my-ichery.feishu.cn/wiki/Yzsxwm374iYUWHkbKZSc0vePnie",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "控股OA密码如何自助更改",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CF2xdZOm9ouessxlbHQcilp1nxb",
+    "url": "https://my-ichery.feishu.cn/wiki/VUJAwV8HriZWWakgxKNcYCn2ndd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "用户自助重置密码后端设计方案",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OVX1dbuCaovotyxvzGoclBcHnkh",
+    "url": "https://my-ichery.feishu.cn/wiki/MqgpwZmHVi8fkckFBGncfOIsnze",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "修改密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "修改密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "找回数字车控密码接口",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "PV2DdL5tRoyeC5xJwTrcfmUmnuk",
+    "url": "https://my-ichery.feishu.cn/wiki/QO7wwK26MisNIzk9usPcHszZnGb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "门户登录页用什么账号和密码登录?",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WcrmdXXgJonkuOxTBUhcP54un3f",
+    "url": "https://my-ichery.feishu.cn/wiki/AovswBe6gizjGDkomclc9jcOnTe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "用户中心概要设计",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "WsjXdKKRtoEdCWxKR5UcA1imnUb",
+    "url": "https://my-ichery.feishu.cn/wiki/XDsMw0K4qi4F7Dkz0X3cdOrnn1e",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "短信站内信文案",
+    "source_kind": "wiki",
+    "docs_type": "3",
+    "docs_token": "JE8xbmjLjafYSXsR8JMcZxwWn6c",
+    "url": "https://my-ichery.feishu.cn/wiki/JE2IwTbV1iLx5JkqyuRctLxonlg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "2026.3.30 整车优化",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "RIZJdereMozMREx5IpEcdGfhnOj",
+    "url": "https://my-ichery.feishu.cn/wiki/J0DuwPmADiVY4uk0brvc8Sdfnwd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "密码与账号"
+    ],
+    "matched_queries": [
+      "找回密码"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "密码与账号",
+        "query": "找回密码",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "华为云VPN使用说明",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "NIefdaOFxoeZZTx1roRcg0ovn3c",
+    "url": "https://my-ichery.feishu.cn/wiki/EelZw1e9ciVJ71ko9Slcznk7nbb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "外网登录Jira 华为云VPN使用",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "G93fdllFCoiYLVxoIMOcTWyvnGh",
+    "url": "https://my-ichery.feishu.cn/wiki/QNmJwoVmOipQoXkCmuVcMGk2n7e",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "VPN申请清单-珍岛.xlsx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "M1ofbDCFLoI4muxDBV0cQgl7nG8",
+    "url": "https://my-ichery.feishu.cn/wiki/S3HzwJmpqi8cTXkkKsQcUVi1npg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "资源账号",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "P138dYe1ooLd9PxWdx1cRGHFnHg",
+    "url": "https://my-ichery.feishu.cn/wiki/JTqKwrOmqiPTsskFWIUc5CiYnle",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "VPN"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "VPN",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "SCRM事故报告-1103",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "SqNOs9j1FhGNRTtC6eAcBC62nMf",
+    "url": "https://my-ichery.feishu.cn/wiki/TYP1wl12hi5GsfkIJ6BcOvAln5e",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程办公"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程办公",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "内网间访问业务安全评估申请表v4.1.xlsx",
+    "source_kind": "wiki",
+    "docs_type": "5",
+    "docs_token": "AFj9bbgJwoE3ELxNaKrcbNJNnjd",
+    "url": "https://my-ichery.feishu.cn/wiki/CdbdwWlG2iYq86k7HoOcTR5Dnlf",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "无外网环境下如何访问汽车之家",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "KXxjdQnwnoDKm6x2JlTca9fsnuf",
+    "url": "https://my-ichery.feishu.cn/wiki/R5FxwJggdi7i3Ek7bEFcOtO8nqg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "信息安全知识库",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Zfn6dSyZKoP8JUxSHwqc4mGknOf",
+    "url": "https://my-ichery.feishu.cn/wiki/Mh1HwSm1IiGU3KkbQuhcymhdnJc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "内网访问"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "内网访问",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "涉及版权无法安装的软件明细",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "OPc1ddIOLoWN1vxm0PVc1xkvnid",
+    "url": "https://my-ichery.feishu.cn/wiki/MSYawfNzDibpC1kCgN1cQ1c3nJb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程连接"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程连接",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "日志项目POC需求列表",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "UiaesjgYxhhl3at0khVcQ0ZYnvf",
+    "url": "https://my-ichery.feishu.cn/wiki/ZYexw1vKUihwcAky3w5cJX4anoa",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程连接"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程连接",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "代理模式",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "QIeldvxlqoJvqHxAGDlcqsTknte",
+    "url": "https://my-ichery.feishu.cn/wiki/IBp4wuWUdikHfAk6X5Acfb7Cnlg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程连接"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程连接",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "JIRA产品验收意见反馈",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "KTp5skxENhdu7ztcEDJc5kRIneg",
+    "url": "https://my-ichery.feishu.cn/wiki/Cpq3wtmV5i7PpmkzRzrc6aEOnOd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程连接"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程连接",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "C端软件产品功能和非功能指标(部分)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "XGpfd1YB2o1tBWxRf7Scy12tnFh",
+    "url": "https://my-ichery.feishu.cn/wiki/Irakw8eiDiMxvfkXtkJcnO9cn5f",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "赛道三：作品提交要求",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "D144dDVQLoU4ShxgeqLcBUbon6b",
+    "url": "https://my-ichery.feishu.cn/wiki/Ln2awtI5miP7qEkeszXcWp9SnRg",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "赛道二：作品提交要求",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "CvACd2FTnoTKq4x7x85cV5fXn4e",
+    "url": "https://my-ichery.feishu.cn/wiki/DLgewM243iPDhXkotrhc45PMnxd",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "开发-国际短信和邮箱验证(出海)",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "Ml6odlpC4oPNqdxyrPscKWv8nyh",
+    "url": "https://my-ichery.feishu.cn/wiki/I96qw68l8iS8X7kKkpvcgTvAnoe",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "赛道一：作品提交要求",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "IA4Gd9FVxoX9KCxAH4kcDo8kn7e",
+    "url": "https://my-ichery.feishu.cn/wiki/YMMVwjmSlipoXdkCrKMcWRddnVc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "运维-Gitlab代码迁移文档（账号注册）",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "FDhCdUxrfo0BVPxw2B3cRhIFnke",
+    "url": "https://my-ichery.feishu.cn/wiki/HlFQwUTbOifZLYkUUWDcJ1ThnUh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何申请/注销域账号、飞书账号、邮箱账号？",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "QfX5d3JYBoSgorx71Hjc2QtFnmb",
+    "url": "https://my-ichery.feishu.cn/wiki/OGmtwEwPKilShmkjvY3cBJrenHb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱申请"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "如何撤回邮件",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "LI7jdiAG8opxTpxxr6JcPkPdnYh",
+    "url": "https://my-ichery.feishu.cn/wiki/G0bvwVp84iaqQAkxRGYciyH2n0L",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱申请"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱申请",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "代码资产管理安全评估表",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "Fq4MsWRd1hovFPtQj5zcrKbUn7g",
+    "url": "https://my-ichery.feishu.cn/wiki/F1bKwGERTisgPEkwvO2cIl2rn3v",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "项目业务&产品数据准备物料",
+    "source_kind": "wiki",
+    "docs_type": "8",
+    "docs_token": "IMyCdMVNaoAKaOxKqZzcsCzHnof",
+    "url": "https://my-ichery.feishu.cn/wiki/VI20wYbadiXeUpklw9ycuM1knZc",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "代码资产内部管控点",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "PvVFssptOh2H8VtAlWZcO9RJnCf",
+    "url": "https://my-ichery.feishu.cn/wiki/RzKAwjJIdiMMGrkB67xcjUKMn6A",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "奇瑞APP技术清单",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "VlLHsaQXNhg6nRtcXnuc6zgJnCl",
+    "url": "https://my-ichery.feishu.cn/wiki/MYp2wp1aIi6J2Gkp2ZAcTwYunIh",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "邮箱权限"
+    ],
+    "score": 6.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "邮箱权限",
+        "source": "wiki"
+      }
+    ]
+  },
+  {
+    "title": "5月25日远程查看西班牙大区机器狗问题总结及后续",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "Vr33dfN07oVw2OxRLQ9cE9u9nJf",
+    "url": "https://www.feishu.cn/docx/Vr33dfN07oVw2OxRLQ9cE9u9nJf",
+    "owner_id": "ou_7b8518a2a05e41e942dca3d1b5904ef4",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程办公"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程办公",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "OO的说明书",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "url": "https://www.feishu.cn/docx/KvogdrYhtosw6cxeSBFcCvN7nvP",
+    "owner_id": "ou_ee2adb57863f1be9888da92d351f0af8",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "02.售后服务管理基准",
+    "source_kind": "docs",
+    "docs_type": "docx",
+    "docs_token": "OwoedEF1OoNfOPxQvNRcHPa5nGw",
+    "url": "https://www.feishu.cn/docx/OwoedEF1OoNfOPxQvNRcHPa5nGw",
+    "owner_id": "ou_eccef56c27d1439900f7c43f5401407f",
+    "hit_count": 1,
+    "categories": [
+      "邮箱与应用"
+    ],
+    "matched_queries": [
+      "企业邮箱"
+    ],
+    "score": 5.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1"
+    ],
+    "raw_status": "rate_limited",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "邮箱与应用",
+        "query": "企业邮箱",
+        "source": "docs"
+      }
+    ]
+  },
+  {
+    "title": "欧盟OJ的测试case",
+    "source_kind": "wiki",
+    "docs_type": "2",
+    "docs_token": "EUxBsRBDlhOdOetUoMzcul3vnUb",
+    "url": "https://my-ichery.feishu.cn/wiki/ASCqwVhj6isy2YkIHCnc4Tdonqb",
+    "owner_id": "",
+    "hit_count": 1,
+    "categories": [
+      "VPN与远程办公"
+    ],
+    "matched_queries": [
+      "远程权限"
+    ],
+    "score": 3.5,
+    "reasons": [
+      "覆盖类别 1",
+      "命中次数 1",
+      "标题疑似噪声 -1",
+      "知识库来源"
+    ],
+    "raw_status": "",
+    "raw_preview": "",
+    "source_queries": [
+      {
+        "category": "VPN与远程办公",
+        "query": "远程权限",
+        "source": "wiki"
+      }
+    ]
+  }
+]
